@@ -1,0 +1,2 @@
+# TGSRTC GTFS Analyzer Dependencies
+pandas>=1.5.0

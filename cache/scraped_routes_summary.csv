@@ -1,0 +1,772 @@
+route_number,origin,destination,onwards_count,return_count,first_stop,last_stop,first_bus,last_bus
+224/219,Gitam University,Miyapur X Road (2),26,25,Miyapur X Road – SV,Gitam University,7:21 AM,3:16 PM
+8X,Secunderabad Bus Station,Ranigunj Bus Depot,12,8,Ranigunj Bus Depot,Secunderabad Bus Station,5:00 AM,3:40 PM
+15H/242RG,Rajiv Gruhakalpa Colony,Secunderabad(Towards Uppal),44,42,Secunderabad(Towards Uppal),Rajiv Gruhakalpa Colony,6:28 AM,7:20 PM
+5K/92A,Aramghar,Secunderabad Bus Station,26,30,Secunderabad Bus Station,Aramghar,6:45 AM,3:00 PM
+8A,Secunderabad Railway Station,Chandrayangutta X Road,37,30,Chandrayangutta X Road,Secunderabad Railway Station,5:50 AM,7:40 PM
+90L/25S,L.B. Nagar Ring Road,Suchitra X Road,49,49,Suchitra X Road,L.B. Nagar Ring Road,6:25 AM,9:41 AM
+24S/219,Patancheru Bus Terminal,ECIL X Road Bus Terminal,69,66,ECIL X Road Bus Terminal,Patancheru Bus Terminal,6:30 AM,7:30 PM
+1P/25S,Suchitra X Road,Chandrayangutta X Road,66,62,Chandrayangutta X Road,Suchitra X Road,6:00 AM,8:34 PM
+90L/251,TSRTC Rathifile Bus Station,Shamshabad,51,52,Shamshabad Bus Station,TSRTC Rathifile Bus Station,3:30 AM,11:30 PM
+188/251,Mehdipatnam,Shamshabad,34,37,Shamshabad Bus Station,Mehdipatnam,5:15 AM,11:45 PM
+49M/251,TSRTC Rathifile Bus Station,Rajiv Gandhi International Airport (RGIA),46,43,Rajiv Gandhi International Airport (RGIA),TSRTC Rathifile Bus Station,4:50 AM,9:25 PM
+6LG,ECIL X Road Bus Terminal,Waverock,65,66,Waverock,ECIL X Road Bus Terminal,9:15 AM,8:10 PM
+156S,Mehdipatnam,Saroor Nagar Bus Terminal,31,31,Saroor Nagar Bus Terminal,Mehdipatnam,7:30 AM,6:45 PM
+19Y/F,Borabanda,Mehdipatnam,25,21,Mehdipatnam,Borabanda,6:07 AM,7:43 PM
+49M/16A,ECIL X Road Bus Terminal,Mehdipatnam,58,64,Mehdipatnam,ECIL X Road Bus Terminal,7:45 AM,7:55 PM
+5K/251,Rajiv Gandhi International Airport (RGIA),Secunderabad Railway Station,36,42,Secunderabad Railway Station,Rajiv Gandhi International Airport (RGIA),6:00 AM,7:00 PM
+189MJ,Mehdipatnam,Jeedimetla Auto Stand – Apurupa Colony,38,40,Jeedimetla,Mehdipatnam,6:30 AM,7:25 PM
+16P/X,Prashanth Nagar,Secunderabad(Towards Uppal),13,15,Secunderabad(Towards Uppal),Prashanth Nagar,6:10 AM,8:15 PM
+86V,Koti Osmania Hospital,Musheerabad- II Depot,11,15,Musheerabad Bus Depot,Shankar Mutt,5:45 AM,4:30 PM
+113f,Boduppal,Borabanda,58,56,Borabanda Bus Stand,Boduppal,6:00 AM,7:00 PM
+401,Ibrahimpatnam Bus Depot,Mudwin,16,15,Mudwin,Ibrahimpatnam Bus Depot,6:45 AM,6:45 AM
+224G,Miyapur X Road,Gandimaisamma Towards Bachupally,17,18,Gandimysamma X Road Bus Stop,Miyapur X Road,5:14 AM,4:01 PM
+143,Talla Gadda,Nampally,11,12,Nampally,Talla Gadda,8:00 AM,6:28 PM
+252N,Afzalgunj Terminal,Shamsabad Bus Station,21,22,Shamshabad Bus Stop,Afzalgunj Bus Terminus,4:40 AM,8:20 PM
+251S,Shamsabad Bus Station,Afzalgunj Terminal,22,19,Afzalgunj Bus Terminus,Shamshabad Bus Stop,7:55 AM,4:05 PM
+251N,Nanajipur,Afzalgunj Terminal,31,28,Afzalgung Central Library,Nanajipur,6:33 AM,4:43 PM
+251M,Afzalgunj Terminal,Shamsabad Bus Station,19,19,Shamshabad Bus Stop,Afzalgunj Bus Terminus,6:45 AM,8:40 PM
+95KD,Sri Ram Colony,Rajendra Nagar Bus Depot,13,13,Rajendra Nagar Bus Depot,Sri Ram Colony Bus Stop,5:35 AM,2:56 PM
+92X,Mehdipatnam,Rajendra Nagar Bus Depot,17,21,Rajendra Nagar Bus Depot,Mehdipatnam Bus Stop,6:45 AM,2:35 PM
+251L,Shamsabad Bus Station,Afzalgunj Central Library,24,19,Afzalgung Central Library,Shamshabad Bus Stop,9:35 AM,4:45 PM
+251K,Afzalgunj Central Library,Shamsabad Bus Station,20,21,Shamshabad Bus Stop,Afzal Gunj Bus Stop,5:40 AM,7:20 PM
+251A,Afzalgunj Central Library,Shamsabad Bus Station,20,21,Shamshabad Bus Stop,Afzal Gunj Bus Stop,5:00 AM,7:20 PM
+252,RGI Airport,TSRTC Dilsukhnagar Bus Station,38,38,Dilsukhnagar,Rajiv Gandi International Airport (Shamshabad),5:44 AM,3:21 PM
+278,Charminar,Hayath Nagar Bus Station,28,30,Hayath Nagar,Charminar Bus Stop,5:15 AM,5:25 PM
+105S,TSRTC Pushpak,Greenland Colony,22,19,Charminar Bank Bus Stop,TSRTC Pushpak,5:05 AM,8:30 PM
+105,Koti Womens College,Madannapet,9,9,Madannapet,Koti Womens College,5:00 AM,9:00 PM
+38E,Tukaram Gate,Secunderabad Bus Station,9,9,Secunderabad Bus Station 2,Thukaram Gate,6:09 AM,5:19 PM
+29S,Secunderabad (Medchal),Jeedimetla,26,26,Jeedimetla Bus Depot,Secunderabad (Medchal),6:35 AM,8:37 PM
+49M,Kali Mata Mandir,Secunderabad Bus Station,47,43,Secunderabad Bus Station 2,Kalimandir Bus Stop,6:30 AM,9:20 AM
+38X,Secunderabad Bus Station,Safilguda,18,20,Safilguda,Secunderabad Bus Station 2,4:35 AM,11:06 AM
+30C,Asbestos Colony,Secunderabad (Medchal),21,22,Secunderabad Bus Station 2,Asbestos Colony,7:15 AM,8:25 PM
+227B,Secunderabad (Medchal),Dundigal,34,35,Dundigal,Secunderabad (Medchal),4:45 AM,7:55 PM
+37N,Nampally Railway Station,ECIL Bus Terminal,30,33,ECIL,Nampally Railway Station,5:10 AM,5:55 PM
+37S,Sainikpuri,Secunderabad Bus Station,18,17,Secunderabad (Medchal),Sainikpuri Bus Stop,5:20 AM,7:40 PM
+37H,Secunderabad (Medchal),ECIL Bus Terminal,16,17,ECIL,Secunderabad (Medchal),5:25 AM,6:05 PM
+37E,Secunderabad (Medchal),ECIL Bus Terminal,16,18,ECIL,Secunderabad (Medchal),4:30 AM,7:00 PM
+37D,Ambedkar Nagar,Secunderabad (Medchal),28,25,Secunderabad Bus Station 2,Ambedkar Nagar Bus Stop,5:50 AM,9:45 PM
+254,Charminar,Kongara Kalan,34,31,Kongara Kalan,Charminar Bus Stop,4:15 AM,6:23 PM
+178,Ramcharan Oil Mill,Charminar Bus Station,12,12,Charminar Bus Stop,Ramcharan Oil Mill,7:40 AM,8:55 PM
+9YF,Charminar Bus Station,Borabanda,40,40,Borabanda Bus Stand,Charminar Bus Station,6:30 AM,5:20 PM
+143A,Shah Ali Banda,Ambedkar Nagar (Chinthal Basthi),28,27,Ambedkar Nagar (Chinthal Basthi),Shah Ali Banda,7:30 AM,8:52 PM
+40N,Secunderabad (Medchal),Nampally,22,19,Public Gardens Bus Stop,Secunderabad (Medchal),4:35 AM,5:45 PM
+40T,Koti Bus Terminal,Secunderabad (Medchal),25,25,Secunderabad Bus Station 2,Koti Bus Terminal,5:00 AM,8:00 PM
+40V,Secunderabad (Medchal),Koti Bus Terminal,21,17,Koti Bus Terminus,Secunderabad (Medchal),5:30 AM,7:55 PM
+120M,Mehdipatnam / Amba Theatre,Narsingi,15,15,Narsingi,Mehdipatnam / Amba Theatre,7:10 AM,7:50 PM
+283A,Suraram Colony,Ameerpet-Maitrivanam,35,33,Maitrivanam Bus Stop,Suraram Colony Bus Stop,11:01 AM,5:10 PM
+298,High Court Colony Deer Park,Koti Womens College,20,22,Koti Womens College,High Court Colony Deer Park,5:25 AM,10:20 PM
+216D/L,Lingampally,Dilsukhnagar,59,52,Dilsukhnagar,Lingampally Bus Stop,12:05 PM,3:14 PM
+209,Koti Womens College,Abdullapurmet,34,33,Abudllapurmet Bus Stop,Koti Womens College,8:40 AM,10:35 PM
+201M,Koti Womens College,Marripally,25,24,Marripally,Koti Womens College,5:30 AM,8:35 PM
+201G,Nagole Ring Road,Koti Womens College,14,16,Koti Womens College,Nagole Ring Road,5:00 AM,9:07 PM
+127,Madhapur Petrol Pump,Dilsukhnagar,44,46,Dilsukhnagar,Madhapur Petrol Pump,6:05 AM,9:31 PM
+100V,Koti Womens College,NGOS Colony,24,23,NGOS Colony,Koti Womens College,5:20 AM,1:22 PM
+277D,Ibrahimpatnam Bus Depot,Mahatma Gandhi Bus Station (MGBS),42,46,Mahatma Gandhi Bus Station (MGBS),Ibrahimpatnam Bus Station,7:57 AM,8:06 PM
+277I,IS Sadan,Ibrahimpatnam Bus Depot,33,32,Ibrahimpatnam Bus Station,IS Sadan,6:30 AM,9:00 PM
+277W,Brahmanpally,Koti Womens College,27,28,Koti Womens College,Brahmanpally,7:00 AM,6:40 PM
+293S,Sanghi Nagar,Koti Womens College,31,36,Koti Womens College,Sanghi Nagar Bus Stop,6:45 AM,8:05 PM
+299S,Koti Womens College,Saheb Nagar (Vanasthalipuram),27,25,Saheb Nagar (Vanasthalipuram),Koti Womens College,6:30 AM,8:55 PM
+299P,Koti Womens College,Sanghi Nagar,43,41,Sanghi Nagar,Koti Womens College,8:10 AM,7:05 PM
+299H,Hayathnagar Depot,Koti Womens College,27,28,Koti Womens College,Lecturers Colony Bus Stop,7:05 AM,6:35 PM
+299D,Dilsukhnagar,Hayath Nagar Bus Station,25,27,Hayath Nagar,Dilsukhnagar,5:00 AM,10:06 AM
+299C,Charminar,Hayathnagar Depot,31,33,Hayathnagar Depot,Charminar Bus Stop,5:40 AM,5:15 PM
+208C,Charminar,Hayath Nagar Bus Station,36,36,Hayath Nagar,Charminar,8:25 AM,4:08 PM
+207,Koti Womens College,Ramoji Film City,50,48,Ramoji Film City,Koti Womens College,5:42 AM,6:30 PM
+206,Koti Womens College,Kothagudem,43,41,Kothagudem,Koti Womens College,5:10 AM,10:07 PM
+205M,Koti Womens College,Majeedpur 1,44,42,Majeedpur 1,Koti Womens College,7:30 AM,8:50 PM
+205K,Koti Womens College,Kavadi Pally,37,35,Kavadi Pally,Koti Womens College,4:50 AM,10:30 AM
+205B,Koti Womens College,Abdullapurmet,37,35,Abudllapurmet Bus Stop,Koti Womens College,5:15 AM,9:20 PM
+205A,Koti Womens College,Anajpur,44,42,Abdulapur,Koti Womens College,5:00 AM,9:37 PM
+205,Koti Womens College,Pillaypalli X Road,47,46,Guvvaledi Village,Koti Womens College,5:00 AM,9:20 PM
+204S,Sanghi Nagar,Koti Womens College,35,38,Koti Womens College,Sanghi Nagar Bus Stop,7:25 AM,7:32 PM
+204P,Koti Womens College,Pasumamula,36,36,Pasumamula,Koti Womens College,7:20 AM,8:42 PM
+204K,Koti Womens College,Koheda,35,34,Koheda,Koti Womens College,8:10 AM,6:30 PM
+204,Koti Womens College,Gandi Cheruvu,33,33,Gandi Cheruvu,Koti Womens College,5:30 AM,8:54 PM
+202T,Koti Womens College,Brahmanpally,33,31,Brahmanpally,Koti Womens College,6:25 AM,6:50 PM
+202M,Dilsukhnagar,Manneguda,25,25,Manneguda,Dilsukhnagar,6:45 AM,8:01 PM
+202,Koheda,Koti Womens College,31,31,Koti Womens College,Koheda,7:40 AM,9:40 PM
+201K,Kuntloor,Koti Womens College,38,36,Koti Womens College,Kuntloor Bus Stop,6:35 AM,11:00 PM
+201,Koti Womens College,Hayath Nagar Bus Station,27,26,Hayath Nagar,Koti Womens College,6:00 AM,9:55 PM
+127KV,Hitech City,NGOS Colony,68,64,NGOS Colony,Hitech City Bus Stop,5:09 AM,6:19 PM
+100D/V,Koti Womens College,NGOS Colony,29,24,NGOS Colony,Koti Womens College,12:05 PM,7:30 PM
+100C,Koti Womens College,BN Reddy Nagar,25,26,BN Reddy Nagar Bus Stop,Koti Womens College,6:40 AM,6:25 PM
+100,Balapur,Dilsukhnagar,22,19,Dilsukhnagar,Balapur,6:05 AM,7:40 PM
+1V,NGOS Colony,TSRTC Rathifile Bus Station,39,43,Rathifile Bus Station,NGO’s Colony Bus Stop,5:30 AM,3:00 PM
+1D/V,TSRTC Rathifile Bus Station,NGOS Colony,45,41,NGOS Colony,Rathifile Bus Station,7:15 AM,5:00 PM
+1D/277D,Ibrahimpatnam Bus Depot,TSRTC Rathifile Bus Station,54,60,Rathifile Bus Station,Ibrahimpatnam Bus Station,8:35 AM,3:55 PM
+131,Secunderabad Bus Station,Madannapet,27,22,Madannapet,Secunderabad Bus Station 2,4:50 AM,7:40 PM
+45HK,Kondapur Bus Depot,Koti Bus Terminal,59,56,Koti Bus Terminal,Kondapur Bus Depot,8:13 AM,9:18 PM
+40D,Dilsukhnagar,Secunderabad (Medchal),29,35,Secunderabad Bus Station 2,Dilsukhnagar,7:35 AM,3:45 PM
+288Z,Mehdipatnam,Aziz Nagar 3,22,20,Aziz Nagar 3,Mehdipatnam Bus Stop,5:05 AM,7:30 PM
+288X,Mothkupally,Mehdipatnam,28,29,Mehdipatnam,Mothkupally,5:40 AM,4:15 PM
+601,Kushaiguda,Ibrahimpatnam Bus Depot,60,61,Ibrahimpatnam Bus Station,Kushaiguda Bus Stop,6:05 AM,8:14 PM
+250H,Secunderabad Railway Station,HCL Colony,20,22,HCL Colony,Secunderabad Railway Station Bus Stop,6:00 AM,8:35 PM
+108S,Saroor Nagar,Nampally,20,23,Public Gardens Bus Stop,Saroor Nagar,9:50 AM,10:25 PM
+101K,Karmanghat,Nampally,15,15,Public Gardens Bus Stop,Karmanghat Bus Stop,6:35 AM,6:00 PM
+101B,Nampally,Bhupesh Guptha Nagar,28,26,Bhupesh Guptha Nagar,Nampally,5:20 AM,6:25 PM
+94H,Himayat Sagar,Koti Osmania Hospital,33,36,Koti,Himayat Sagar,7:50 AM,4:30 PM
+299A,Hayathnagar Depot,Afzalgunj Terminal,33,34,Afzalgunj Bus Terminus,Lecturers Colony Bus Stop,4:45 AM,8:55 PM
+9K,Jeedimetla Bus Depot,Afzalgunj Terminal,56,52,Afzalgunj Bus Terminus,Jeedimetla Bus Depot,1:01 AM,10:18 AM
+115V,Koti Bus Terminal,Venkatreddy Nagar,14,14,Venkatreddy Nagar,Koti Bus Terminal,6:50 AM,7:30 PM
+115C,Koti Bus Terminal,Church Colony,15,15,Church Colony,Koti Bus Terminal,6:50 AM,7:55 PM
+4,Afzalgunj Terminal,Kushaiguda,40,42,Kushaiguda,Afzalgunj Bus Terminus,8:05 AM,5:35 PM
+290F,Hayath Nagar Bus Station,Jubilee Bus Station,42,51,Jubilee Bus Station,Hayath Nagar Bus Station,9:15 AM,9:30 PM
+279,Chilakalaguda,Ibrahimpatnam Bus Depot,47,49,Ibrahimpatnam Bus Depot,Chilakalaguda,4:20 AM,10:40 AM
+250S,Charlapally,Chilakalaguda,25,25,Secunderabad/Chilkalguda Circle Bus Stop,Charlapally,5:30 AM,10:42 PM
+90L/300,Chilakalaguda,Mehdipatnam,62,58,Mehdipatnam Bus Stop,Chilakalaguda,8:25 AM,4:20 PM
+90L/226,NGOS Colony,L,82,62,Keerthimahal Bus Stop,NGO’s Colony Bus Stop,4:00 AM,4:50 AM
+90L,Jubliee Bus Station,L,32,28,L.B. Nagar Ring Road,HPS High School,1:01 AM,2:00 PM
+90d,Secunderabad Bus Station,Dilsukhnagar,31,31,Dilsukhnagar Bus Station,Secunderabad Bus Station 2,6:20 AM,9:35 PM
+47Y/90U,Uppal X Roads,Film Nagar,43,45,Film Nagar Bus Stop,Uppal X Road Bus Stop,6:00 AM,3:25 PM
+47Y/90D,Dilsukhnagar,Film Nagar,60,59,Film Nagar Bus Stop,Dilsukhnagar,6:00 AM,3:25 PM
+10H/250C,Chengicherla Bus Depot,Kondapur Bus Depot,84,84,Kondapur Bus Depot,Chengicherla Bus Depot,10:30 AM,11:40 AM
+6H/216G,ECIL X Road Bus Terminal,Gachibowli X Road,62,68,"Gachibowli,M L NAYAK",ECIL,9:35 AM,9:35 AM
+6H,ECIL X Road Bus Terminal,Towlichowki,53,57,Tolichowki,ECIL,6:25 AM,7:00 AM
+26D,Shapur Nagar,Secunderabad (Medchal),19,20,Secunderabad Bus Station 2,Shapur Nagar Bus Stand,5:15 AM,7:25 PM
+29Q,Qutubullapur 2,Secunderabad (Medchal),22,21,Secunderabad Bus Station 2,Qutubullapur 2,7:45 AM,7:50 PM
+226L/229,Medchal Bus Terminal,Lingampally,62,56,Lingampally Bus Station,Medchal Bus Terminal,2:46 AM,6:20 PM
+228,Medchal,Ranigunj Bridgeflat Showroom,27,26,Ranigunj,Medchal,6:00 AM,7:50 PM
+229B,Bhadurpally,Secunderabad (Medchal),29,33,Secunderabad Bus Station 2,Bhadurpally,7:15 AM,4:30 PM
+229V,Gowdavalli,Secunderabad (Medchal),29,26,Secunderabad Bus Station 2,Gowdavalli,5:10 AM,8:29 PM
+649,Mehdipatnam,Medchal Bus Terminal,57,56,Medchal Bus Terminal,Mehdipatnam Bus Stop,8:30 AM,7:25 PM
+185,Kukatpally Bus Depot,Koti Bus Terminal,23,22,Koti Bus Terminus,Kukatpally Bus Depot,6:12 AM,8:35 PM
+113C,Uppal Bus Stand,ESI Hospital,35,36,SR Nagar Bus Stop,Uppal Gandhi Statue,7:06 AM,9:01 PM
+41N,Jagadgirigutta,Nampally,37,37,Public Gardens Bus Stop,Jagadgirigutta,5:00 AM,10:30 PM
+19M/224,Mehdipatnam,Miyapur Bus Depot,44,54,Miyapur bus depot,Mehdipatnam Bus Stop,5:45 AM,2:00 PM
+19M,KPHB 4th Phase,Mehdipatnam,42,42,Mehdipatnam Bus Stop,KPHB 4th Phase,6:55 AM,12:52 PM
+19K,Mehdipatnam,KPHB 3rd Phase Colony,36,38,KPHB 3rd Phase Colony,Mehdipatnam Bus Stop,5:24 AM,5:34 PM
+19F/A,Aramghar,Borabanda,45,43,Borabanda Bus Stand,Aramghar,5:05 AM,8:35 PM
+19F,Borabanda,Mehdipatnam,27,29,Mehdipatnam Bus Stop,Borabanda Bus Stand,6:01 AM,8:30 PM
+9X/283D,Central Bus Station (CBS),Suraram Colony,55,59,Suraram Colony Bus Stop,Central Bus Station (CBS),5:15 AM,6:10 PM
+9X/272G,Central Bus Station (CBS),Gandimaisamma X Road,58,62,Gandimaysamma X Road Bus Stop,Central Bus Station (CBS),11:15 AM,7:35 PM
+9X/171M,Central Bus Station (CBS),Gajula Ramaram,54,59,Gajularamaram Bus Stop,Central Bus Station (CBS),6:40 AM,6:30 PM
+9X,Jeedimetla Bus Depot,Central Bus Station (CBS),56,52,Central Bus Station,Jeedimetla Bus Depot,4:45 AM,10:10 AM
+9M-1,Chandrayan Gutta X Road,Sanath Nagar Terminal,46,47,Sanath Nagar Bus Depot,Chandrayan Gutta X Road,5:50 AM,11:20 AM
+9M,Sanath Nagar Terminal,Central Bus Station (CBS),34,32,Central Bus Station,Sanath Nagar Bus Depot,1:30 PM,9:35 PM
+9K/283K,Suraram Colony,Afzalgunj Terminal,60,59,Afzalgunj Bus Terminus,Suraram Colony Bus Stop,4:01 AM,4:25 PM
+9K/272G,Central Bus Station (CBS),Afzalgunj Terminal,54,58,Gandimaysamma X Road Bus Stop,Central Bus Station,11:15 AM,7:35 PM
+280T,Tenugudem,Koti Bus Terminal,30,33,Koti Bus Terminus,Thenugudem,5:15 AM,7:15 PM
+245J,Dayara,Koti Bus Terminal,35,36,Koti Bus Terminus,Dayara,5:50 AM,4:05 PM
+245A,Chilakalaguda,Aushapur Village,28,29,Aushapur Village,Chilakalaguda,5:00 AM,8:55 PM
+245,Chilakalaguda,Dayara,28,30,Nemuragomla,Chilakalaguda,4:45 AM,7:55 PM
+117,ECIL X Road,Uppal Depot,26,28,Uppal Bus Depot,ECIL Cross Roads Bus Stop,6:50 AM,7:25 PM
+211U,Uddamarri,Secunderabad Bus Station,42,41,Secunderabad Bus Station 2,Uddamarri,5:25 AM,9:50 PM
+211T,Turkapally,Secunderabad Bus Station,37,36,Secunderabad Bus Station 2,Turkapally,5:45 AM,10:15 PM
+211S,Secunderabad Bus Station,Shameerpet,31,32,Shameerpet,Secunderabad Bus Station 2,5:30 AM,9:35 PM
+211R,Ravalkole,Secunderabad (Medchal),37,39,Secunderabad Bus Station 2,Ravalkole,5:30 AM,5:55 PM
+211K,Kesavaram,Secunderabad Bus Station,50,53,Secunderabad Bus Station 2,Kesavaram,5:45 AM,9:05 PM
+211J,Secunderabad (Medchal),Jaggamguda,36,37,Jaggamguda,Secunderabad (Medchal),5:00 AM,7:05 PM
+211E,Secunderabad (Medchal),Hakimpet Bus Depot,19,20,Hakimpet Bus Stop,Secunderabad (Medchal),6:05 AM,8:20 PM
+211D,Secunderabad Bus Station,Kolthur,37,38,Kolthur,Secunderabad Bus Station 2,5:10 AM,8:29 PM
+211C,Secunderabad Bus Station,Keesara-ECIL X Road,32,33,Keesara Main Road,Secunderabad Bus Station 2,6:00 AM,6:50 PM
+211B,Secunderabad Bus Station,Ponnal,38,39,Ponnal,Secunderabad Bus Station 2,5:00 AM,9:20 PM
+211A,Aliabad,Secunderabad Bus Station,35,34,Secunderabad Bus Station 2,Aliabad,7:25 AM,6:20 PM
+211,Hakimpet Bus Depot,Secunderabad (Medchal),22,22,Secunderabad Bus Station 2,Hakimpet Bus Stop,5:00 AM,9:25 PM
+37B,Secunderabad (Medchal),Ambedkar Nagar,30,30,Ambedkar Nagar,Secunderabad (Medchal),4:30 AM,5:24 PM
+28,Secunderabad (Medchal),NIMH,7,8,Hanuman Temple (Tirumalgherry),Secunderabad (Medchal),6:50 AM,5:10 PM
+25S/90L,Suchitra,L,53,48,L.B. Nagar Ring Road,Suchitra,7:00 AM,9:55 PM
+24E,ECIL Bus Terminal,Secunderabad (Medchal),27,26,Secunderabad Bus Station 2,ECIL Bus Terminal,5:00 AM,10:49 AM
+24,Yapral,Secunderabad Bus Station,13,15,Secunderabad Bus Station 2,Yapral Water Tanks Bus Stop,8:40 AM,6:40 PM
+23,Secunderabad (Medchal),Subash Nagar,11,8,Subash Nagar Bus Stop,Secunderabad (Medchal),12:25 PM,12:25 PM
+22T,Turkapally,Secunderabad (Medchal),42,43,Secunderabad Bus Station 2,Turkapally,5:45 AM,10:10 PM
+22M,Old Alwal ZPHS,Secunderabad (Medchal),17,19,Secunderabad Bus Station 2,Old Alwal Bus Stop,7:15 AM,8:00 PM
+21W/2017J,TSRTC Dilsukhnagar Bus Station,West Venkatapuram,50,48,West Venkatapuram,Dilsukhnagar Bus Station,6:20 AM,7:35 PM
+21W/107J,Saroor Nagar Bus Terminal,West Venkatapuram,58,57,West Venkatapuram,Saroor Nagar Bus Terminal,6:20 AM,10:20 AM
+21/107J,Saroor Nagar Bus Terminal,Venkatapuram,52,52,Venkatapuram Last Bus Stop,Saroor Nagar Bus Terminal,6:07 AM,3:37 PM
+8R,Resala Bazar,Central Bus Station (CBS),48,38,Central Bus Station (CBS),Resala Bazar,4:45 AM,10:14 PM
+5R,Mehdipatnam,Hakimpet Bus Depot,44,46,Hakimpet Bus Depot,Mehdipatnam Bus Stop,6:39 AM,4:29 PM
+83J/272G,Gandimaisamma X Road,Kachiguda Bus Station,63,57,Kachiguda Bus Station,Gandimaysamma X Road Bus Stop,10:43 AM,12:13 PM
+83J/230,Dundigal,Kachiguda Bus Station,66,60,Kachiguda Bus Stop,Dundigal Bus Stop,6:56 AM,4:41 PM
+3KN,Afzalgunj Terminal,Kushaiguda Depot,47,49,Kushaiguda Depot,Afzalgunj Bus Terminus,5:15 AM,7:40 PM
+49/250M,Narsingi,Mehdipatnam,68,56,ECIL,Narsingi Bus Stop,6:20 AM,6:15 PM
+40,Koti Bus Terminal,Secunderabad Bus Station,23,24,Secunderabad Bus Station 2,Koti Bus Terminal,1:01 AM,10:20 AM
+26M,Old Bowenpally,Secunderabad Bus Station,17,20,Secunderabad Bus Station 2,Old Bowenpally Bus Depot,11:40 AM,8:10 PM
+25S,Secunderabad (Medchal),Suchitra,26,28,Suchitra,Secunderabad (Medchal),11:55 AM,8:50 PM
+24B,Balaji Nagar,Secunderabad Bus Station,29,31,Secunderabad Bus Station 2,Balaji Nagar,5:50 AM,8:45 PM
+16A/47LI,Waverock,ECIL X Road,72,70,ECIL X Road,Waverock,4:44 AM,4:49 AM
+8M,Secunderabad Bus Station,Central Bus Station (CBS),32,24,Central Bus Station,Secunderabad Bus Station 2,3:05 PM,8:44 PM
+8C,Chandrayanagutta,Secunderabad Bus Station,38,32,Secunderabad Bus Station 2,Chandrayanagutta,7:25 AM,8:20 PM
+7X,Secunderabad Bus Station,Ranigunj Bus Depot,11,9,Ranigunj Bus Depot,Secunderabad Bus Station 2,6:05 AM,7:40 AM
+5M,Mehdipatnam,Secunderabad Bus Station,22,26,Secunderabad Bus Station 2,Mehdipatnam,5:40 AM,11:50 AM
+5K/92,Secunderabad Bus Station,Rajendra Nagar,39,38,Rajendra Nagar Bus Stop,Secunderabad Bus Station 2,6:15 AM,5:15 PM
+5K,Mehdipatnam,Secunderabad Bus Station,21,25,Secunderabad Bus Station 2,Mehdipatnam Bus Stop,7:10 AM,3:00 PM
+49M/250,ECIL X Road Bus Terminal,Towlichowki,59,67,Talla Gadda,ECIL,5:45 AM,6:25 AM
+30,Secunderabad Bus Station,Jagadgirigutta,32,32,Jagadgiri Gutta Bus Stop,Secunderabad Bus Station 2,5:40 AM,12:04 PM
+211M,CRPF,Secunderabad Bus Station,29,27,Secunderabad Bus Station 2,Malle Gudem,5:10 AM,10:22 AM
+589,Ramayanpet,Gurudwara(Secunderabad Bus Station),51,47,Secunderabad Bus Station 2,Ramayampet TSRTC Bus Station,5:45 AM,8:05 PM
+277U,Uppariguda,Koti Womens College,34,35,Koti Womens College,Uppariguda,6:30 AM,7:40 PM
+277P,Nalgonda X Road,Pocharam Village Main Road,67,70,Pocharam Village Main Road,Nalgonda X Road,9:22 PM,8:43 PM
+277K,Koti Womens College,Kongara Kalan Village,46,43,Kongara Kalan Village,Koti Womens College,5:40 AM,7:30 PM
+277,Mahatma Gandhi Bus Station (MGBS),Ibrahimpatnam Bus Depot,44,43,Ibrahimpatnam Bus Depot,Mahatma Gandhi Bus Station (MGBS),5:00 AM,9:00 PM
+254M,Koti Womens College,Kongara Kalan,29,28,Kongara Kalan,Koti Womens College,6:10 AM,7:40 PM
+253M,Maheshwaram,Koti Womens College,50,47,Koti Womens College,Maheshwaram,5:00 AM,8:20 PM
+253H,Harshaguda,Koti Womens College,30,31,Koti Womens College,Harshaguda,5:45 AM,7:00 PM
+253G,Thukkuguda,Koti Womens College,34,33,Koti Womens College,Thukkuguda Bus Stop,5:30 AM,7:30 PM
+203N,Nadergul,Koti Womens College,23,26,Koti Womens College,Nadergul,5:00 AM,9:40 PM
+203K,Koti Womens College,Kurmalguda,27,24,Kurmalguda,Koti Womens College,6:35 AM,8:40 PM
+105M,Koti Womens College,Midhani Bus Depot,14,13,Midhani Bus Depot,Koti Womens College,5:30 AM,7:30 PM
+104G,Almasguda,Koti Womens College,24,24,Koti Womens College,Almasguda Bus Stop,6:45 AM,8:05 PM
+102W,Midhani Bus Depot,Koti Womens College,13,14,Koti Womens College,Midhani Bus Depot,5:35 AM,7:30 PM
+102N,Maduban Colony,Koti Womens College,23,22,Koti Womens College,Maduban Colony,7:00 AM,7:00 PM
+102H,Nampally,Chandrayangutta,17,18,Hafiz Baba Nagar Bus Stop,Nampally,7:20 AM,7:50 PM
+102D,Saroor Nagar,DRDL,11,13,Owaisi Hospital,Saroor Nagar,8:10 AM,6:30 PM
+102CJ,Koti Bus Terminal,Janapriya Colony,20,18,Janapriya Colony,Koti Bus Terminal,5:20 AM,9:05 PM
+102B/218L,Badangpet Gramapanchayat Office,Lingampally,76,78,Lingampally Bus Station,Badangpet Gramapanchayat Office,5:03 AM,5:40 PM
+102A,Koti Womens College,Odamgudda,20,22,Mahaveer College RTC Bus Stop,Koti Womens College,6:10 AM,10:20 PM
+102S,DRDL,Safilguda,39,40,Safilguda Bus stop,DRDL,5:30 AM,7:25 PM
+16M,Secunderabad Bus Station,Malkajgiri,12,13,Malkajgiri Bus Stop,Secunderabad Bus Station 2,4:40 AM,9:25 PM
+15H,Secunderabad Railway Station,ECIL X Road Bus Terminal,26,24,ECIL Bus Terminal,Secunderabad Bus Stop,4:45 AM,9:15 PM
+5K/16A,ECIL X Road,Mehdipatnam,48,50,Mehdipatnam Bus Stop,ECIL X Road,9:40 AM,5:40 PM
+90R,Pahadi Sharif,Chilakalaguda,48,44,Secunderabad/Chilkalguda Circle Bus Stop,Pahadi Sharif,7:35 AM,8:40 PM
+90M,Chilakalaguda,Sripuram Colony,22,23,Sripuram Colony,Chilakalaguda,4:45 AM,5:15 PM
+18,Peerjadiguda Kaman,Chilakalaguda,13,12,Secunderabad/Chilkalguda Circle Bus Stop,Peerjadiguda Kaman,12:07 AM,11:40 PM
+178V,Ramcharan Oil Mill,Charminar,11,11,Charminar,Ramcharan Oil Mill,5:35 AM,9:05 PM
+178R,Charminar,Rajendra Nagar,18,18,Rajendra Nagar,Charminar,6:30 AM,7:10 PM
+85H,Baba Nagar,Charminar,19,20,Charminar,Baba Nagar,6:30 AM,8:00 PM
+85B,Secunderabad Railway Station,Balapur,49,46,Balapur,Secunderabad Railway Station Bus Stop,6:50 AM,6:15 PM
+9F,Falaknuma Terminal,Borabanda,36,32,Borabanda Bus Stand,Falaknuma Terminal,6:00 AM,8:30 PM
+225M,Keerthimahal / BHEL,Koti Bus Terminal,48,50,Koti Bus Terminus,Keerthimahal / BHEL,5:00 AM,8:05 PM
+224K,ESI Hospital,Kazipally,25,29,Kazipally,Rythu Bazar Erragadda,6:30 AM,7:25 PM
+223S,Patancheru Bus Terminal,Sanath Nagar,38,38,Sanath Nagar,Patancheru Bus Station,9:10 AM,9:40 PM
+223G,Kukatpally Bus Depot,Keerthimahal / BHEL,44,44,Keerthimahal Bus Stop,Kukatpally Bus Depot,6:05 AM,6:30 PM
+187P,Kukatpally Bus Depot,Pragathi Nagar,10,10,Pragathi Nagar Bus Stop,Kukatpally Bus Depot,5:14 AM,8:08 PM
+185S,Allwyn Colony,Koti Bus Terminal,33,34,Koti Bus Terminus,Allwyn Colony,5:15 AM,9:50 PM
+113EL,Uppal Bus Stand,Lingampally,75,74,Lingampally Bus Station,Uppal Gandhi Statue,7:30 AM,7:39 PM
+83K,KPHB Colony,Kachiguda Bus Station,41,34,Kachiguda Bus Station,KPHB Colony,7:25 AM,7:00 PM
+Secunderabad Bus Station – RGI Airport,RGI Airport,Secunderabad (Medchal),3,4,Secunderabad Bus Station 2,Rajiv Gandi International Airport (Shamshabad),3:30 AM,11:00 PM
+156V,Mehdipatnam,NGOS Colony,41,39,NGOS Colony,Mehdipatnam Bus Stop,7:15 AM,8:30 PM
+16A/5K,ECIL X Road,Gachibowli X Road,68,68,"Gachibowli,M L NAYAK",ECIL X Road,9:05 AM,9:44 PM
+283S,Secunderabad Railway Station,Suraram,35,36,Suraram X- Road Bus Stop,Secunderabad Railway Station Bus Stop,6:31 AM,8:01 PM
+272S,Bowrampet,Secunderabad (Medchal),32,33,Secunderabad Bus Station 2,Bowrampet Bus Stop,7:50 AM,5:50 PM
+272M,Mallampet X Road,Secunderabad (Medchal),36,34,Secunderabad Bus Station 2,Mallampet X Roads Bus Stop,6:45 AM,9:15 PM
+272K,ESI Hospital,Bowrampet,30,33,Bowrampet,Rythu Bazar Erragadda,6:25 AM,7:59 PM
+272C,Shah Ali Banda,Bowrampet,48,50,Bowrampet,Shah Ali Banda,5:30 AM,6:40 PM
+231B,Secunderabad (Medchal),Bachupally,30,31,Bachupally X Road,Secunderabad (Medchal),7:15 AM,4:00 PM
+231,Nizampet X Road,Secunderabad (Medchal),22,25,Secunderabad Bus Station 2,Nizampet Road Bus Stop,5:10 AM,10:00 PM
+230V,Secunderabad (Medchal),Jinnaram Village,37,36,Jinnaram Village,Secunderabad (Medchal),4:55 AM,6:40 PM
+230P,Dundigal Chowrasta,Secunderabad (Medchal),43,42,Secunderabad Bus Station 2,Dundigal Chowrasta,8:50 AM,3:05 PM
+230N,Kazipally,Ameerpet,37,35,Ameerpet,Kazipally,9:10 AM,9:10 PM
+230G,Secunderabad (Medchal),Gagillapur X Road,35,34,Gagilapur X Road,Secunderabad (Medchal),8:40 AM,10:35 PM
+226C,Secunderabad (Medchal),Keerthimahal / BHEL,39,38,Keerthimahal Bus Stop,Secunderabad (Medchal),7:10 AM,9:05 PM
+226A,Secunderabad (Medchal),Patancheru Bus Terminal,51,50,Patancheru Bus Terminal,Secunderabad (Medchal),7:10 AM,7:50 PM
+226,Patancheru Bus Terminal,Secunderabad Bus Station,49,49,Secunderabad Bus Station 2,Patancheru Bus Station,1:30 AM,10:40 PM
+224S,Bollaram,Secunderabad (Medchal),46,46,Secunderabad Bus Station 2,New Bus Station,6:50 AM,9:17 PM
+224/226,Secunderabad Bus Station,Miyapur Bus Depot,40,39,Miyapur bus depot,Secunderabad Bus Station 2,2:01 AM,8:29 PM
+223JG,,,52,0,Jeedimetla Bus Depot,Patancheru Bus Station,,
+223J,Patancheru Bus Terminal,Jeedimetla Bus Depot,52,48,Jeedimetla Bus Depot,Patancheru Bus Terminal,8:39 AM,9:00 AM
+219,Patancheru Bus Terminal,Secunderabad Bus Station,49,62,Secunderabad Bus Station 2,Patancheru Bus Station,1:30 AM,7:04 AM
+218D/L,,,70,0,NGOS Colony,Deepthisree Bus,,
+183B,,,16,0,Balanagar Bus Stop,Jeedimetla Bus Depot,,
+183AJ,Maithrivanam,Jeedimetla Bus Depot,32,34,Jeedimetla Bus Depot,Maithrivanam,6:01 AM,8:31 PM
+183,Koti Bus Terminal,Jeedimetla,36,33,Jeedimetla Bus Depot,Koti Bus Terminal,5:30 AM,8:54 PM
+171,Secunderabad Bus Station,Gajula Ramaram,36,35,Gajularamaram Bus Stop,Secunderabad Bus Station 2,6:00 AM,9:05 PM
+41,Koti Bus Terminal,Jagadgirigutta,40,46,Jagadgiri Gutta Bus Stop,Koti Bus Terminal,4:45 AM,5:15 PM
+33S,Allwyn Colony,Secunderabad (Medchal),29,28,Secunderabad Bus Station 2,Allwyn Colony,5:40 AM,3:00 PM
+31V,Vasanth Nagar,Secunderabad (Medchal),29,30,Secunderabad Bus Station 2,Vasanth Nagar,6:05 AM,8:28 PM
+31P,Sri Sai Nagar,Secunderabad (Medchal),40,39,Secunderabad Bus Station 2,Sri Sai Nagar,6:40 AM,9:10 PM
+31M,Secunderabad (Medchal),Old MIG,36,38,Old MIG,Secunderabad (Medchal),5:00 AM,6:40 PM
+31L,Secunderabad (Medchal),KPHB,24,25,K.P.H.B Main Road Bus Stop,Secunderabad (Medchal),5:50 AM,11:08 PM
+31H,KPHB Colony,Secunderabad (Medchal),24,22,Secunderabad Bus Station 2,KPHB Colony,4:50 AM,7:20 PM
+31A,Secunderabad (Medchal),Kukatpally,19,19,Kukatpally Bus Stop,Secunderabad (Medchal),4:15 AM,6:05 PM
+30S,Secunderabad (Medchal),Srinivas Nagar Colony,29,27,Srinivas Nagar Colony,Secunderabad (Medchal),4:05 AM,11:27 AM
+30M,Secunderabad (Medchal),Jagadgirigutta,28,23,Jagadgiri Gutta Bus Stop,Secunderabad (Medchal),5:10 AM,6:00 PM
+30A,Secunderabad (Medchal),Allwyn X Road (Near Miyapur),42,39,Allwyn Colony X Road,Secunderabad (Medchal),11:51 PM,11:00 PM
+29R/272,,,33,0,Secunderabad Bus Station 2,Gandimaysamma X Road Bus Stop,,
+29R,Apurupa Colony,Secunderabad Bus Station,32,30,Secunderabad Bus Station 2,Apurupa Colony,5:10 AM,7:55 PM
+29H,Apurupa Colony,Secunderabad (Medchal),26,25,Secunderabad Bus Station 2,Apurupa Colony,6:30 AM,7:18 PM
+29C,Secunderabad (Medchal),Sriram Nagar,29,32,Sriram Nagar,Secunderabad (Medchal),4:00 AM,6:05 PM
+29B/290RFC,Jeedimetla Bus Depot,Ramoji Film City,232,0,7:00 AM,Jeedimetla Bus Depot,,
+29B,,,29,0,Secunderabad Bus Station 2,Jeedimetla Bus Depot,,
+29,Jeedimetla,Secunderabad (Medchal),20,25,Secunderabad Bus Station 2,Jeedimetla Bus Stop,7:50 AM,6:15 PM
+22/219L,Lingampally,Hakimpet Bus Depot,53,53,Hakimpet Bus Depot,Lingampally Bus Station,6:00 AM,6:00 PM
+18/219,Lingampally,Uppal Bus Stand,61,53,Rtc Bus Depot – Uppal,Lingampally Bus Station,5:30 AM,6:30 PM
+16A/226L,ECIL X Road,Lingampally,72,71,Lingampally Bus Stop,ECIL X Road,5:45 AM,6:50 PM
+16A/219,ECIL X Road,Patancheru Bus Terminal,82,81,Patancheru Bus Station,ECIL X Road,5:25 AM,6:30 PM
+9D,,,34,0,Charminar Bus Station,Jeedimetla Bus Stop,,
+234,Ravalkole,Medchal Ambedkar Chowrasta,4,4,Medchal Bus Stop,Ravalkole,6:55 AM,9:05 PM
+589,,,50,0,Secunderabad Bus Station 2,Ramayampet TSRTC Bus Station,,
+233,Nutankal,Medchal Ambedkar Chowrasta,6,6,Medchal Bus Stop,Nutankal,5:30 AM,7:05 PM
+229T,,,8,0,Medchal,Turkapally,,
+229R,Ranigunj Bridgeflat Showroom,Railapoor,31,32,Railapoor,Ranigunj Bus Stop,5:30 AM,8:10 PM
+229G,Ranigunj,Girmapur,30,34,Girmapur,Ranigunj,7:55 AM,7:15 PM
+229D,Dabeerpura,Medchal,45,45,Medchal,Dabeerpura,5:45 AM,9:45 PM
+229,Medchal Bus Terminal,Gurudwara(Secunderabad Bus Station),38,36,Secunderabad Bus Station 2,Medchal Bus Terminal,4:40 AM,4:25 PM
+226L/229,Medchal Bus Terminal,Lingampally,62,56,Lingampally Bus Station,Medchal Bus Terminal,2:46 AM,6:20 PM
+219/229,Medchal Bus Terminal,Patancheru Bus Terminal,69,66,Patancheru Bus Station,Medchal Bus Terminal,2:30 AM,2:55 PM
+211P,Secunderabad Bus Station,Medchal,32,33,Medchal,Secunderabad Bus Station 2,5:30 AM,8:10 PM
+123,Narsingi,Mehdipatnam / Amba Theatre,17,17,Mehdipatnam / Amba Theatre,Narsingi,6:10 AM,8:15 PM
+119,Nampally,Golconda Fort,24,23,Golconda Bus Station,Public Gardens Bus Stop,5:25 AM,7:00 PM
+118,Koti Bus Terminal,Mehdipatnam,14,11,Mehdipatnam Bus Stop,Koti Bus Terminal,8:37 AM,9:40 PM
+115M-1,,,33,0,Mehdipatnam Bus Stop,Boduppal,,
+113B,Mehdipatnam,Pf Office Barkatpura,18,20,Barkatpura,Mehdipatnam Bus Stop,6:00 AM,9:00 PM
+113/288,,,69,0,Moinabad,Rtc Bus Depot – Uppal,,
+95,Maduban Colony,Masab Tank,24,25,Masab Tank,Maduban Colony,6:05 AM,4:50 PM
+92,Mehdipatnam,Rajendra Nagar,17,17,Rajendra Nagar Bus Stop,Mehdipatnam Bus Stop,6:15 AM,5:15 PM
+19/224,,,45,0,Mehdipatnam Bus Stop,Miyapur bus depot,,
+16A/49M-1,,,68,0,Mehdipatnam Bus Stop,Charlapal,,
+16A/49M,ECIL X Road,Mehdipatnam,63,64,Mehdipatnam Bus Stop,ECIL X Road,5:52 AM,9:35 PM
+6B,Ocean Park,Ramnagar SBH,36,39,Ramnagar Bus Stop,Ocean Park,7:00 AM,4:50 PM
+5T,Risal Bazar,Tallagadda,40,36,Talla Gadda,Risal Bazar,7:10 AM,8:30 PM
+5SD,Secunderabad Railway Station,Mehdipatnam,24,22,Mehdipatnam Bus Stop,Secunderabad Bus Stop,5:55 AM,5:45 PM
+5P,Secunderabad Bus Station,Puppala Guda,32,29,Puppala Guda,Secunderabad Bus Station 2,6:50 AM,7:50 PM
+5L,Langer Houz,Secunderabad (Medchal),29,33,Secunderabad Bus Station 2,Langer Houz,7:30 AM,8:40 PM
+5GP,Secunderabad Bus Station,GPR Quarters,32,31,Indira Nagar,Secunderabad Bus Station 2,6:00 AM,5:05 PM
+5C,Towlichowki,Secunderabad Bus Station,20,23,Secunderabad Bus Station 2,Tolichowki Bus Stop,9:40 AM,7:55 PM
+5BL,Secunderabad Railway Station,Bapu Ghat,30,28,Bapu Ghat,Secunderabad Bus Stop,7:15 AM,8:00 PM
+5B,Secunderabad Bus Station,Bapu Ghat,32,24,Bapu Ghat,Secunderabad Bus Station 2,6:15 AM,7:00 PM
+216U,Lakdikapul,HCU Bus Depot,26,26,HCU Depot Bus Stop,Lakdikapul,5:45 AM,7:50 PM
+300H,,,45,0,Mehdipatnam Bus Stop,Lecturers Colony Bus Stop,,
+300,Mehdipatnam,Chilakalaguda,58,55,Secunderabad/Chilkalguda Circle Bus Stop,Mehdipatnam Bus Stop,4:47 AM,8:37 PM
+292,Rajendra Nagar Bus Depot,Mehdipatnam,19,23,Mehdipatnam Bus Stop,Rajendra Nagar Bus Depot,8:00 AM,8:15 PM
+289M,Mehdipatnam,Suraram,41,43,Suraram X- Road Bus Stop,Mehdipatnam Bus Stop,6:06 AM,9:34 PM
+288Y,Mehdipatnam,Yelkaguda Village,37,39,Yelkaguda Village,Mehdipatnam Bus Stop,6:00 AM,8:30 PM
+288S,Sri Rama Nagar,Mehdipatnam,29,29,Mehdipatnam Bus Stop,Sri Rama Nagar,6:30 AM,9:00 PM
+288R,Chinnamangabram,Mehdipatnam / Amba Theatre,32,32,Mehdipatnam / Amba Theatre,Chinnamangabram,5:15 AM,10:25 PM
+288P,Mehdipatnam / Amba Theatre,Pedda Mangalaram,28,28,Pedda Mangalaram,Mehdipatnam / Amba Theatre,5:20 AM,10:35 PM
+288N,Mehdipatnam,Bakaram,23,23,Bakaram,Mehdipatnam Bus Stop,6:00 AM,9:20 PM
+288D,Chilkur Balaji Temple,Mehdipatnam,30,31,Mehdipatnam Bus Stop,Chilkur Balaji Temple,5:25 AM,8:53 AM
+288C,Appa Reddy Guda,Mehdipatnam,25,25,Mehdipatnam Bus Stop,Appa Reddy Guda,5:45 AM,6:10 PM
+288B,Bakaram,Mehdipatnam,29,30,Mehdipatnam Bus Stop,Bakaram,6:45 AM,6:38 PM
+288A,Mehdipatnam,Amdapur,26,26,Amdapur,Mehdipatnam Bus Stop,5:00 AM,8:30 PM
+220V,Lingampally Police Station,Mehdipatnam / Amba Theatre,26,30,Mehdipatnam / Amba Theatre,Lingampally,6:15 AM,7:30 PM
+218/19M,,,63,0,Mehdipatnam Bus Stop,Gitam University,,
+217X,Patancheru Bus Terminal,RTC X Roads,53,58,Musheerabad Bus Stop,Patancheru Bus Station,7:40 AM,5:10 PM
+216MI,,,20,0,Mehdipatnam,Infosys,,
+216M,Mehdipatnam,Lingampally,32,36,Lingampally Bus Station,Mehdipatnam Bus Stop,1:00 AM,8:35 AM
+216A,Mehdipatnam,Patancheru Bus Terminal,37,38,Patancheru Bus Terminal,Mehdipatnam Bus Stop,5:00 AM,7:30 PM
+189R,Rajendranagar,Balanagar X Roads / CITD,48,48,Balanagar X Roads / CITD,Rajendranagar,8:40 AM,8:40 AM
+189M/A,,,59,0,Aramghar,SR Naik Nagar Main Bus Stop,,
+189M/92A,,,60,0,Apurupa Colony,Aramghar,,
+189M,,,44,0,Mehdipatnam Bus Stop,Apurupa Colony,,
+188H,Himayat Sagar,Mehdipatnam,17,18,Mehdipatnam Bus Stop,Himayat Sagar,7:20 AM,9:20 PM
+156LM,,,26,0,Mehdipatnam Bus Stop,LB Nagar Ring Road Bus Stop,,
+156B,Mehdipatnam,NGOS Colony,36,38,NGOS Colony,Mehdipatnam,6:35 AM,6:45 PM
+801,,,26,0,Golconda Bus Station,Central Bus Station (CBS),,
+299,,,31,0,Afzalgunj Bus Terminus,Lecturers Colony Bus Stop,,
+293,Nampally,Saheb Nagar (Vanasthalipuram),32,24,Saheb Nagar (Vanasthalipuram),Public Gardens Bus Stop,7:20 AM,7:25 PM
+283D,Central Bus Station (CBS),Suraram,57,57,Suraram X- Road Bus Stop,Central Bus Station (CBS),5:15 AM,7:30 PM
+252D,RGI Airport,Dilsukhnagar,33,32,Dilsukhnagar,Rajiv Gandi International Airport (Shamshabad),5:00 AM,9:00 PM
+251J,JBS,RGI Airport,55,57,Rajiv Gandi International Airport (Shamshabad),Jubilee Bus Stop West 1,4:10 AM,4:35 AM
+251,RGI Airport,Mahatma Gandhi Bus Station (MGBS),25,24,Mahatma Gandhi Bus Station (MGBS),Rajiv Gandi International Airport (Shamshabad),5:30 AM,6:35 PM
+230X,Central Bus Station (CBS),Dundigal,50,53,Dundigal,Central Bus Station (CBS),7:45 AM,8:45 PM
+229M,Dabeerpura,Medchal,42,47,Medchal,Dabeerpura,6:50 AM,5:10 PM
+114,Basheerbagh (L.B. Stadium),Noorkhan Bazar,10,10,Noorkhan Bazar,L B Stadium Bus Stop,7:55 AM,9:20 PM
+104T,Afzalgunj Terminal,TRR Township,21,21,TRR Township,Afzalgunj Bus Terminus,7:55 AM,5:25 PM
+94L,,,34,0,Rajendra Nagar,LB Nagar Bus Stop,,
+72L,,,22,0,Afzal Gunj Bus Stop,LB Nagar Bus Stop,,
+72J,,,24,0,Afzalgunj Bus Terminus,Jaipuri Colony Last Bus Stop,,
+71A,,,24,0,Charminar Bus Station,Uppal Gandhi Statue,,
+65A,Charminar,Ambedkar Nagar (Chinthal Basthi),24,18,Ambedkar Nagar (Chinthal Basthi),Charminar,6:23 AM,7:09 PM
+63S,Syed Nagar,Charminar,19,24,Charminar,Syed Nagar,6:10 AM,8:19 PM
+9C,,,19,0,Yusufguda Basthi,Mahatma Gandhi Bus Station,,
+3,Rajiv Gruhakalpa Colony,Afzalgunj Terminal,58,57,Afzalgunj Bus Terminus,Rajiv Gruhakalpa Colony,8:58 AM,6:20 PM
+2F,,,17,0,Afzalgunj Bus Terminus,Ramnagar Gundu Bus Stop,,
+1,Chilakalaguda,Afzalgung Central Library,22,19,Afzal Gunj Bus Stop,Secunderabad/Chilkalguda Circle Bus Stop,4:20 AM,9:21 AM
+299M,Mehdipatnam,Hayathnagar Depot,47,50,Hayathnagar Depot,Mehdipatnam Bus Stop,5:25 AM,8:45 PM
+293T,Thorrur 1,Nampally,35,37,Nampally Railway Station,Thorrur 1,5:30 AM,7:05 PM
+288K,Koti Osmaniya Hospital,Chilkur Balaji Temple,48,46,Chilkur Bus Stop,Koti Osmaniya Hospital,7:05 AM,2:55 PM
+288H,Koti Bus Terminal,Himayat Sagar,32,31,Himayat Sagar Bus Stop,Koti Bus Terminal,4:40 AM,3:30 PM
+287N,Koti,Bachupally,44,45,Bachupally X Road,Koti,5:40 AM,5:05 PM
+284P,Prapap Singaram,Koti Bus Terminus,23,25,Koti Bus Terminal,Prapap Singaram,5:27 AM,10:07 PM
+283T,Peerjadiguda Kaman,Koti Bus Terminus,23,26,Koti Bus Terminal,Peerjadiguda Kaman,5:51 AM,8:31 PM
+283P,Kormalla,Koti Bus Terminal,35,37,Koti Bus Terminal,Bustop,8:00 AM,6:55 PM
+283K,Kormalla,Koti Bus Terminal,35,37,Koti Bus Terminal,Bustop,5:30 AM,6:15 PM
+283,Koti Bus Terminus,Bacharam 1,43,40,Bacharam 2,Koti Bus Terminus,4:40 AM,8:40 PM
+280R,Koti Bus Terminal,Uppal Depot,22,22,Boduppal,Koti Bus Terminal,7:20 AM,5:15 PM
+280E,Koti Bus Terminus,NFC Nagar,49,44,NFC Nagar,Koti Bus Terminus,4:30 AM,6:00 PM
+277Y,Koti Womens College,IS Sadan,17,14,IS Sadan,Koti Womens College,5:25 AM,6:50 PM
+277N,Koti Womens College,Nadargul,39,37,Nadargul,Koti Womens College,5:00 AM,9:00 PM
+277M,M.M Kunta,Koti Womens College,34,35,Koti Womens College,M.M Kunta,7:15 AM,5:55 PM
+277B,Koti Womens College,Ibrahimpatnam Bus Depot,49,45,Ibrahimpatnam Bus Depot,Koti Womens College,5:20 AM,8:55 PM
+251B,Shamsabad Bus Station,Koti Womens College,29,29,Koti Womens College,Shamshabad Bus Stop,5:25 AM,12:39 PM
+229X,Medchal,Koti Bus Terminus,46,40,Koti Bus Terminal,Medchal,7:25 AM,6:20 PM
+225S,Charminar,Patancheru Bus Terminal,68,62,Patancheru Bus Terminal,Charminar Bus Stop,7:50 AM,4:00 PM
+225L/V,NGOS Colony,Lingampally,75,82,Lingampally Bus Station,NGO’s Colony Bus Stop,4:10 AM,9:05 PM
+225L/299,Lingampally,Hayath Nagar,86,80,Hayath Nagar,Lingampally Bus Station,6:25 AM,1:40 PM
+225L,L.B. Nagar Ring Road,Lingampally,209,0,5:00 AM,Lingampally Bus Station,,
+225HP,Afzalgunj Terminal,Patancheru Bus Terminal,62,60,Patancheru Bus Terminal,Afzalgunj Bus Terminus,5:30 AM,7:30 PM
+225D,Dilsukhnagar,Patancheru Bus Terminal,64,63,Patancheru Bus Terminal,Dilsukhnagar,5:15 AM,9:05 PM
+225C,,,32,0,Infosys,Mahatma Gandhi Bus Station,,
+225A,Mahatma Gandhi Bus Station (MGBS),Patancheru Bus Terminal,58,59,Patancheru Bus Terminal,Mahatma Gandhi Bus Station (MGBS),7:00 AM,10:40 PM
+225,Koti Bus Terminus,Patancheru Bus Terminal,70,67,Patancheru Bus Terminal,Koti Bus Terminus,12:03 AM,10:59 PM
+224H,HMT Swarnapuri Colony,Koti,50,50,Koti,HMT Swarnapuri Colony Bus Stop,7:55 AM,7:00 PM
+224/205F,,,78,0,Ramoji Film City,Miyapur X Road,,
+224/187D/V,,,60,0,L.B. Nagar Ring Road,Miyapur bus depot,,
+223R,Koti Bus Terminal,Patancheru Bus Terminal,54,55,Patancheru Bus Terminal,Koti Bus Terminal,5:35 AM,8:15 AM
+223A,Koti Bus Terminal,Patancheru Bus Terminal,65,63,Patancheru Bus Terminal,Koti Bus Terminal,7:50 AM,2:45 PM
+222P,L.B. Nagar Ring Road,Patancheru Bus Terminal,84,94,Patancheru Bus Terminal,L.B. Nagar Ring Road,4:30 AM,4:39 PM
+222L,Lingampally,L,80,73,L.B. Nagar Ring Road,Lingampally Bus Station,6:59 AM,7:19 PM
+222A,Central Bus Station (CBS),Patancheru Bus Terminal,62,74,Lingampally Bus Station,Central Bus Station (CBS),11:31 PM,8:19 AM
+218L/V,NGOS Colony,Lingampally,74,82,Lingampally Bus Station,NGO’s Colony Bus Stop,4:10 AM,9:05 PM
+218L,,,56,0,Dilsukhnagar Bus Station,Lingampally Bus Station,,
+218HG,,,89,0,Hayath Nagar,Gitam University,,
+218D,TSRTC Dilsukhnagar Bus Station,Patancheru Bus Terminal,55,73,Lingampally Bus Station,Dilsukhnagar Bus Station,1:01 AM,10:45 PM
+218C,Patancheru Bus Terminal,Lingampally,67,58,Central Bus Station (CBS),Patancheru Bus Station,3:30 AM,9:03 AM
+218,Koti Osmania Hospital,Patancheru Bus Terminal,58,58,Patancheru Bus Station,Koti Bus Terminal,6:15 AM,9:20 PM
+217M,Koti Bus Terminus,Keerthimahal / BHEL,43,43,Keerthimahal Bus Stop,Koti Bus Terminus,5:30 AM,6:45 PM
+217D/L,,,60,0,Dilsukhnagar Bus Station,Lingampally,,
+217D/A,Patancheru,Nagole Bus Stand,72,70,Dilsukhnagar Bus Station,Patancheru,5:12 AM,9:25 PM
+217D,TSRTC Dilsukhnagar Bus Station,Gitam University,71,79,Gitam University,Dilsukhnagar Bus Station,8:50 AM,8:50 AM
+217C,,,65,0,Central Bus Station (CBS),Patancheru Bus Station,,
+217A,Midani X Roads,Patancheru Bus Terminal,66,65,Patancheru Bus Terminal,Midani X Roads,7:05 AM,6:35 PM
+217,Central Bus Station (CBS),Patancheru Bus Terminal,55,62,Patancheru Bus Station,Central Bus Station,11:10 PM,5:01 AM
+216L,,,44,0,Lingampally Bus Station,Mahatma Gandhi Bus Station (MGBS),,
+216KL,,,52,0,Koti,Lingampally Bus Station,,
+208R,Nampally,Hayath Nagar Bus Station,38,37,Hayath Nagar,Public Gardens Bus Stop,7:10 AM,6:43 PM
+208,Hayath Nagar Bus Station,Nampally,29,30,Nampally,Hayath Nagar Bus Station,9:10 AM,9:10 PM
+205F,Mehdipatnam,Ramoji Film City,57,59,Ramoji Film City,Mehdipatnam Bus Stop,4:40 AM,4:00 PM
+204N,,,41,0,Abudllapurmet Bus Stop,Public Gardens Bus Stop,,
+187JL,JNTU,L,58,46,L.B. Nagar Ring Road,K.P.H.B Main Road Bus Stop,7:05 AM,7:00 PM
+187J,Koti,KPHB Colony MIG,35,34,KPHB Colony MIG,Koti,7:05 AM,6:35 PM
+187HJ,,,62,0,Hayath Nagar,K.P.H.B Main Road Bus Stop,,
+187DM,,,58,0,NGOS Colony,K.P.H.B Main Road Bus Stop,,
+187DV,,,61,0,NGOS Colony,KPHB 4th Phase,,
+187D/L-2,,,60,0,NGOS Colony,K.P.H.B Main Road Bus Stop,,
+187D/L,KPHB Colony,L,52,42,LB Nagar Ring Road Bus Stop,KPHB Colony,6:00 AM,9:00 PM
+187D,Dilsukhnagar,KPHB,38,40,K.P.H.B Main Road Bus Stop,Dilsukhnagar,6:30 AM,8:55 PM
+187/205F,,,73,0,Ramoji Film City,K.P.H.B Main Road Bus Stop,,
+187,KPHB Colony,Koti,37,37,Koti,KPHB Colony,11:15 PM,11:15 PM
+185N,Koti,Shamshiguda,36,35,Shamshiguda,Koti,4:40 AM,8:50 PM
+176,Bairamalguda,Nampally,22,21,Public Gardens Bus Stop,Bairamal Guda Bus Stop,7:40 AM,8:55 PM
+171M,Central Bus Station (CBS),Gajula Ramaram,57,61,Gajula Ramaram,Central Bus Station,7:05 AM,8:15 PM
+171K,Mahatma Gandhi Bus Station,Gajula Ramaram,44,46,Gajula Ramaram,Mahatma Gandhi Bus Station,5:20 AM,8:20 PM
+171C,Central Bus Station (CBS),Srinivas Nagar,41,42,Srinivas Nagar,Central Bus Station,6:20 AM,5:15 PM
+158V/J,Jeedimetla Bus Depot,NGOS Colony,77,74,NGOS Colony,Jeedimetla Bus Depot,6:00 AM,6:05 PM
+158V,,,50,0,NGOS Colony,Sanath Nagar Bus Depot,,
+158S,Sanath Nagar,Pallavi Talkies,32,34,Pallavi Talkies,Sanath Nagar,8:40 AM,6:40 PM
+158N,Sanath Nagar,VV Nagar,39,38,V.V.Nagar Bus Stop,Sanath Nagar,6:25 AM,7:40 PM
+158M,New Maruthi Nagar,Sanath Nagar,43,44,Sanath Nagar Bus Depot,New Maruthinagar Bus Stop,7:10 AM,7:10 PM
+158L,,,42,0,L.B. Nagar Ring Road,Sanath Nagar Bus Depot,,
+158JA,L.B. Nagar Ring Road,Dilsukhnagar,68,51,Jeedimetla Bus Depot,LB Nagar Ring Road Bus Stop,7:55 AM,8:00 PM
+158J/D,,,49,0,Dilsukhnagar,Jeedimetla Bus Depot,,
+158J/272G,,,69,0,L.B. Nagar Ring Road,Gandimaysamma X Road Bus Stop,,
+158J,,,57,0,L.B. Nagar Ring Road,Jeedimetla Bus Depot,,
+158FV,NGOS Colony,Borabanda,49,53,Borabanda Bus Stand,NGO’s Colony Bus Stop,12:45 AM,4:40 PM
+158FB,,,53,0,BN Reddy Nagar,Borabanda Bus Stand,,
+158F/299,Borabanda,Hayath Nagar Bus Station,61,60,Hayath Nagar,Borabanda Bus Stand,7:25 AM,7:25 AM
+158F,Chaitanyapuri,Borabanda,41,37,Borabanda Bus Stand,Chaitanyapuri,6:05 AM,7:05 PM
+158D/L,,,34,0,Dilsukhnagar,Sanath Nagar Bus Depot,,
+158/299,Sanath Nagar Terminal,Hayath Nagar Bus Station,60,58,Hayath Nagar,Sanath Nagar Bus Depot,11:20 AM,7:45 PM
+158/277D,Ibrahimpatnam Bus Depot,Sanath Nagar Terminal,70,74,Sanath Nagar Bus Depot,Ibrahimpatnam Bus Station,7:30 AM,4:30 PM
+158,,,46,0,Bandlaguda Bus Stop,Sanath Nagar Bus Depot,,
+156V/118W,Waverock,NGOS Colony,65,65,NGOS Colony,Waverock,7:00 AM,7:00 AM
+156L/216G,,,54,0,L.B. Nagar Ring Road,Gachibowli Stadium,,
+156L,Mehdipatnam,L,39,35,L.B. Nagar Ring Road,Mehdipatnam Bus Stop,5:07 AM,8:39 PM
+156/299,Mehdipatnam,Hayath Nagar Bus Station,48,49,Hayath Nagar,Mehdipatnam Bus Stop,3:00 AM,6:15 PM
+156/288H,,,73,0,Hayath Nagar,Chilkur,,
+156/216L,,,66,0,L.B. Nagar Ring Road,Lingampally Bus Stop,,
+156/216G,Gachibowli Stadium,L,67,47,Hayath Nagar,Gachibowli Stadium,7:00 AM,8:05 PM
+156/216,Lingampally,Hayath Nagar Bus Station,80,80,Hayath Nagar,Lingampally Bus Stop,8:35 AM,4:20 PM
+156/204U,Mehdipatnam,Sanghi Nagar,56,54,Sanghi Nagar,Mehdipatnam Bus Stop,6:00 AM,9:00 PM
+156,Sai Baba Temple,TSRTC Dilsukhnagar Bus Station,27,27,Dilsukhnagar,Sai Baba Temple,6:45 AM,3:34 PM
+153,Mehdipatnam,Saidabad Colony,23,19,Saidabad Colony Bus Stop,Mehdipatnam,7:00 AM,7:45 PM
+152G,Nampally,Ganeshpuri Colony,15,18,Ganeshpuri Colony,Nampally,6:55 AM,10:15 PM
+152,Nampally,Dilsukhnagar,16,14,Dilsukhnagar,Public Gardens Bus Stop,5:30 AM,7:50 PM
+142S,Koti,Shekpet Village,27,22,Shekpet Village,Koti,6:45 AM,7:55 PM
+142K,Golconda Fort,Koti Bus Terminal,22,25,Koti,Golconda Bus Station,6:30 AM,7:40 PM
+135,Erramanzil,Koti Bus Terminus,12,15,Koti Bus Terminal,Erramanzil,7:13 AM,7:45 PM
+127T,,,13,0,Koti Bus Terminal,NBT Nagar,,
+127N,,,25,0,Nandi Nagar,Koti,,
+127LK,,,64,0,L.B. Nagar Ring Road,Kondapur Bus Depot,,
+127LH,,,57,0,L.B. Nagar Ring Road,Hitech City Bus Stop,,
+127KH,,,68,0,Hitech City,NGO’s Colony Bus Stop,,
+127K/V,Kondapur Bus Depot,NGOS Colony,77,72,NGOS Colony,Kondapur Bus Depot,4:00 AM,4:30 PM
+127K/S,,,79,0,Sai Nagar Colony Bus Stop,Allwyn Colony X Road,,
+127K,Kondapur Bus Depot,Koti Bus Terminal,44,45,Koti Bus Terminal,Kondapur Bus Depot,5:20 AM,10:40 AM
+127J,Jubilee Hill Road No.36 Odeesey,Koti,24,29,Koti,Jubilee Hill Road No.36 Odeesey,6:25 AM,7:29 PM
+127HJ,,,70,0,Hayathnagar Depot,JNTU,,
+127F,Film Nagar,Koti,20,24,Koti,Film Nagar,6:36 AM,7:20 PM
+118W,Koti Bus Terminal,Waverock,39,45,Waverock,Koti Bus Terminal,6:00 AM,9:00 PM
+118T,Tallagadda,Koti,22,25,Koti,Tallagadda,9:25 AM,8:20 PM
+118D/W,Waverock,TSRTC Dilsukhnagar Bus Station,52,46,Dilsukhnagar,Waverock,7:30 AM,7:40 PM
+116T,Koti Bus Terminus,Tallagadda,15,17,Talla Gadda,Koti Bus Terminus,6:25 AM,10:38 AM
+116N,Nanak Ram Guda,Koti Bus Terminus,23,23,Koti Bus Terminal,Nanak Ram Guda,5:35 AM,1:53 PM
+116,Puppala Guda,Koti Bus Terminus,18,19,Koti Bus Terminal,Puppala Guda,6:20 AM,8:50 PM
+115M-2,,,39,0,Boduppal,Mehdipatnam Bus Stop,,
+115M,Uppal,Mehdipatnam,37,39,Mehdipatnam Bus Stop,Uppal,7:30 AM,7:00 PM
+115,Uppal Bus Stand,Koti Osmaniya Hospital,20,23,Koti,Uppal Gandhi Statue,7:43 AM,5:40 PM
+104R,RN Reddy Nagar,Koti Womens College,24,27,Koti Womens College,Meerpet X Road,4:25 AM,10:10 PM
+104A,Koti Womens College,Almasguda,30,28,Almasguda,Koti Womens College,5:50 AM,10:30 PM
+103,Pahadi Sharif,Koti Womens College,36,37,Koti Womens College,Pahadi Sharif,6:03 AM,8:35 PM
+102P,Pahadi Sharif,Koti Womens College,35,34,Koti Womens College,Pahadi Shareef Bus Stop,7:20 AM,8:10 PM
+102F,DRDO,Borabanda,40,36,Borabanda Bus Stand,DRDO,5:00 AM,9:20 PM
+101S,Nampally,Saroor Nagar,21,21,Saroor Nagar Bus Terminal,Public Gardens Bus Stop,5:00 AM,11:32 AM
+101R,Nampally,RN Reddy Nagar,33,33,Nandanavanam 2,Public Gardens Bus Stop,7:50 AM,7:12 PM
+100T,Gandhi Bavan,Telephone Colony,17,18,Telephone Colony,Gandhi Bhavan Bus Stop,8:20 AM,7:40 PM
+100R,Gandhi Bavan,Snehapuri Uppal,21,21,Snehapuri Uppal,Gandhi Bhavan Bus Stop,6:30 AM,6:03 PM
+100N,Gandhi Bavan,NGOS Colony,28,28,NGOS Colony,Gandhi Bhavan Bus Stop,6:55 AM,6:48 PM
+100M,Nampally,New Maruthi Nagar,17,17,New Maruthi Nagar,Public Gardens Bus Stop,6:00 AM,8:00 PM
+100L,Nampally,Agrl Market / NTR Nagar,19,19,Doctors Colony Bus Stop,Public Gardens Bus Stop,6:10 AM,9:10 PM
+100K,Nampally,SBI Colony,16,16,SBI Colony,Public Gardens Bus Stop,6:45 AM,8:15 PM
+100J,Nampally,Jaipuri Colony 1,32,32,Jaipuri Colony 1,Public Gardens Bus Stop,6:55 AM,4:58 PM
+100H,Koti Womens College,Road No 10 C Gayathri Hills,19,19,Road No 10 C Gayathri Hills,Koti Womens College,7:00 AM,6:29 PM
+100G,Nampally,GSI Complex,31,27,GSI Complex,Public Gardens Bus Stop,6:15 AM,8:00 PM
+100A,Nampally,Alkapuri Colony Uppal,21,21,Alkapuri Bus Stop,Public Gardens Bus Stop,6:00 AM,6:33 PM
+99M,,,29,0,Sahara Gate,Koti Womens College,,
+99,,,27,0,Complex Bus Stop,Kachiguda Bus Station,,
+98,Mehdipatnam,Malakpet,26,23,Malakpet,Mehdipatnam,7:20 AM,7:35 PM
+96N,,,18,0,Nagole Bus Stand,Public Gardens Bus Stop,,
+95R,,,29,0,Rajendra Nagar Bus Depot,Koti Bus Terminus,,
+95P,,,27,0,Koti Bus Terminal,Agriculture University,,
+95M,,,26,0,Koti,Laxmiguda,,
+95K,,,27,0,Koti,Maduban Colony,,
+95A,,,27,0,Agriculture University,Koti Bus Terminus,,
+94U,,,19,0,Koti,Upparpally X Road Bus Stop,,
+94K,,,29,0,Kismatpur,Koti Bus Terminus,,
+86,,,23,0,Koti,Secunderabad/Chilkalguda Circle Bus Stop,,
+84S,,,34,0,Saroor Nagar Bus Terminal,Sanath Nagar,,
+84,,,36,0,Saroor Nagar Bus Terminal,Sanath Nagar,,
+75R,,,18,0,Koti,Rajanna Bai,,
+74,,,21,0,Putlibowli Bus Stop,Sardar Vallabhbhai Patel National Police Academy,,
+73,,,15,0,Chandulal Baradari,Koti Bus Terminus,,
+67L,,,16,0,Koti,Lalitha Bagh,,
+66G,Golconda Fort,Shah Ali Banda,33,34,Shah Ali Banda,Golconda Fort,4:20 AM,9:45 PM
+65S,Shakepet Darga,Charminar,37,41,Charminar,Shakepet Darga,6:10 AM,10:06 PM
+65M,Langer Houz,Charminar,19,21,Charminar Bus Station,Langer Houz,6:05 AM,8:55 PM
+65,Charminar,Mehdipatnam,28,21,Tolichowki,Charminar,6:35 AM,9:18 PM
+63M,Charminar,Mehdipatnam,22,19,Mehdipatnam Bus Stop,Charminar Bus Stop,6:28 AM,7:28 PM
+63B,Charminar,Mehdipatnam,22,19,Mehdipatnam Bus Stop,Charminar Bus Stop,6:46 AM,8:58 PM
+56G,GSI Gate,Mehdipatnam,35,36,Mehdipatnam Bus Stop,GSI Gate Bus Stop,5:30 AM,4:30 PM
+41K,Jagadgirigutta,Central Bus Station (CBS),45,43,Central Bus Station (CBS),Jagadgirigutta,5:20 AM,5:05 PM
+41C,Asbestos Colony,Koti,37,35,Koti,Asbestos Colony,5:00 AM,6:40 PM
+40E,East Maredpally,Koti Bus Terminal,31,26,Koti Bus Terminal,East Maredpally,4:00 AM,7:10 PM
+36K,Mallikarjun Nagar,Koti Bus Terminal,40,35,Koti Bus Terminal,Mallikarjuna Nagar Bus Stop,6:28 AM,4:38 PM
+9Y,,,21,0,Yusufguda Basthi,Central Bus Station,,
+9V,,,16,0,Koti Bus Terminal,Gayatri Hills,,
+9R,,,30,0,AG Colony Bus Stop,Charminar Bus Stop,,
+9Q,,,51,0,Charminar,Suchitra X Road,,
+9A,,,35,0,Sri Ramanagar,Central Bus Station,,
+9,,,42,0,Charminar Bus Station,Jeedimetla Bus Stop,,
+7V,,,24,0,Koti,Venkatapuram,,
+7M,,,24,0,Secunderabad Railway Station Bus Stop,Mahatma Gandhi Bus Station,,
+7I,,,22,0,Mahatma Gandhi Bus Station,Secunderabad Bus Stop,,
+7H,High Court (Post Office),KPHB,38,40,K.P.H.B Main Road Bus Stop,High Court (Post Office),6:00 AM,8:30 PM
+7C,,,28,0,Secunderabad Railway Station Bus Stop,Afzalgung Central Library,,
+280C,Koti Bus Terminal,Ghatkesar,44,44,Ghatkesar Bus Stop,Koti Bus Terminal,6:30 AM,7:40 PM
+252H,Afzalgunj Terminal,HCL Colony,27,29,HCL Colony,Afzalgunj Bus Terminus,6:00 AM,8:45 PM
+236,HCL Colony,Nampally,36,36,Nampally,HCL Colony,8:15 AM,7:55 PM
+224/113K,,,67,0,Rtc Bus Depot – Uppal,Miyapur bus depot,,
+216L/W,,,73,0,ECIL Bus Terminal,Gachibowli Stadium,,
+216,,,0,0,,,,
+190RK,KPHB,Ramnagr Gundu,41,39,Ramnagar Gundu Bus Stop,K.P.H.B Main Road Bus Stop,6:05 AM,8:55 PM
+190AG,AG Colony,Ramnagr Gundu,29,30,Ramnagar Gundu Bus Stop,AG Colony,6:55 PM,7:45 PM
+156H,Mehdipatnam,NGOS Colony,40,44,NGOS Colony,Mehdipatnam Bus Stop,6:40 AM,6:05 PM
+141,Nampally,Uppal Depot,36,33,Uppal Bus Depot,Public Gardens Bus Stop,5:05 AM,3:55 PM
+137,Beerban Bagh,VST,25,24,VST,Beerban Bagh,5:20 AM,12:00 PM
+136S,Ahobhila Mutt,Nampally,17,16,Nampally,Ahobhila Mutt,7:20 AM,5:15 PM
+136N,Hema Nagar,Nampally,32,28,Public Gardens Bus Stop,Hema Nagar,6:10 AM,7:40 PM
+136L,Nampally,Lalapet,29,27,Prashanth Nagar Bus Stop,Public Gardens Bus Stop,7:05 AM,7:40 PM
+136H,Nampally Public Garden,ECIL Bus Terminal,42,41,ECIL Bus Terminal,Nampally Public Garden,6:00 AM,9:00 PM
+136B,Kalyanpuri,Nampally,25,24,Public Gardens Bus Stop,Kalyanpuri,7:05 AM,6:40 PM
+136,,,21,0,Nampally,Tarnaka,,
+113Y,Yusufguda Basthi,Uppal Depot,38,36,Uppal Bus Depot,Yousufguda Basti (Setwin),5:25 AM,12:45 PM
+113S,Sanath Nagar,Uppal Bus Stand,46,47,Uppal,Sanath Nagar,9:15 AM,4:45 PM
+113M/W,Waverock,Uppal Bus Stand,59,55,Uppal,Waverock,2:10 AM,7:11 PM
+113M/K,,,69,0,Uppal,Lingampally,,
+113M/288,,,65,0,Uppal,Moinabad,,
+113M/216,Uppal Depot,Lingampally,70,71,Lingampally Bus Station,Rtc Bus Depot – Uppal,6:00 AM,3:05 PM
+113M,Uppal,Mehdipatnam,37,35,Mehdipatnam Bus Stop,Uppal,4:30 AM,9:51 PM
+113KY,,,79,0,Chengicherla Bus Depot,Infotech,,
+113K/L-1,,,68,0,JNTU,Infosys SEZ,,
+113KJ,,,72,0,Infosys SEZ,JNTU,,
+113K/L,Lingampally,Uppal Depot,71,75,Rtc Bus Depot – Uppal,Lingampally Bus Station,7:10 AM,7:50 AM
+113K/J-2,JNTU,Boduppal Srinivas Nagar,57,57,Boduppal Srinivas Nagar,K.P.H.B Main Road Bus Stop,7:55 AM,6:10 PM
+113K/J,JNTU,Uppal Depot,64,59,Chengicherala Bus Stop,K.P.H.B Main Road Bus Stop,6:40 AM,6:38 PM
+113K,Kukatpally Bus Depot,Chengicherla Bus Depot,56,58,Chengicherla Bus Depot,Kukatpally Bus Depot,6:00 AM,9:00 PM
+113A,,,50,0,Chengicherla X Roads,AG Colony,,
+42,Tourist / Kachiguda,Secunderabad Bus Station,20,22,Secunderabad Bus Station 2,Tourist / Kachiguda,5:20 AM,7:50 PM
+31,Imliban,Siti Nagar / Moulali,33,33,Siti Nagar / Moulali,Imliban,8:29 AM,4:29 PM
+16T,Nampally,Sainikpuri,39,35,Sanikpuri Bus stop,Public Gardens Bus Stop,7:51 AM,5:51 PM
+6T,VST,Mehdipatnam,20,18,Mehdipatnam Bus Stop,VST,5:45 AM,7:20 PM
+6M,Moula Ali Railway Colony,Mehdipatnam,33,30,Mehdipatnam Bus Stop,Moula Ali Railway Colony,7:45 AM,5:45 PM
+6K,Kushaiguda Depot,Mehdipatnam,47,42,Mehdipatnam Bus Stop,Kushaiguda Depot,7:50 AM,6:15 PM
+6J,VST,Jubilee Hill Road No,32,27,Jubilee Hills Bus Stop,VST,8:08 AM,9:38 PM
+6C,Gachibowli Pushpak,VST,33,35,VST,Gachi Bowli,6:50 AM,5:10 PM
+3Z,Kandiguda Church,Nehru Zoological Park,49,52,Nehru Zoological Park,Kandiguda Church,5:32 AM,4:42 PM
+3Y,Afzalgung Central Library,Kapra Circle,45,48,Kapra,Afzalgung Central Library,6:05 AM,9:31 PM
+3R,National Geophysical Research Institute (NGRI),Koti Bus Terminal,30,28,Koti Bus Terminal,National Geophysical Research Institute (NGRI),6:20 AM,5:35 PM
+3P,,,43,0,Yapral,Badi Chowdi,,
+3N,Hema Nagar,Afzalgung Central Library,36,32,Afzal Gunj Bus Stop,Hema Nagar,5:05 AM,8:30 PM
+3M,A.S. Rao Nagar,Afzalgunj Terminal,41,35,Afzalgunj Bus Terminus,A S Rao Nagar Bus Stop,5:31 AM,5:56 PM
+3KJ,Kushaiguda,Jiyaguda,52,53,Jiyaguda,Kushaiguda Bus Stop,4:32 AM,3:32 PM
+3K,,,43,0,Koti Bus Terminal,Kushaiguda,,
+3JJ,Mahatma Gandhi Bus Station (MGBS),Ambedkar Nagar,49,55,Ambedkar Nagar,Mahatma Gandhi Bus Station (MGBS),5:00 AM,7:30 PM
+3HN,Afzalgunj Terminal,Rampally,56,58,Rampally,Afzalgunj Bus Terminus,4:54 AM,6:24 PM
+3H,Kushaiguda,Afzalgunj Terminal,42,42,Afzalgunj Bus Terminus,Kushaiguda Bus Stop,5:05 AM,5:12 PM
+3G,Moula Ali Railway Colony,Afzalgunj Terminal,31,32,Afzalgunj Bus Terminus,Moula Ali Railway Colony,4:55 AM,6:25 PM
+3E,Yapral,Afzalgunj Terminal,62,62,Afzalgunj Bus Terminus,Yapral Water Tanks Bus Stop,5:00 AM,5:55 PM
+3D,Dammiguda,Afzalgunj Terminal,58,56,Afzalgunj Bus Terminus,Dammiguda,6:05 AM,6:35 PM
+3C,ECIL,Charminar,44,48,Charminar Bus Station,ECIL,4:42 AM,1:19 PM
+3B,,,35,0,Afzalgunj Bus Terminus,National Geophysical Research Institute (NGRI),,
+3A,,,32,0,Chilakalaguda X Road,Koti Bus Terminal,,
+2Z,TSRTC Rathifile Bus Station,Jubilee Bus Station,48,54,Sri Ram Colony Bus Stop,Rathifile Bus Station,5:10 AM,7:20 PM
+2V,,,22,0,Musheerabad Bus Depot,Afzalgunj Bus Terminus,,
+2C,Barkas,TSRTC Rathifile Bus Station,46,44,Rathifile Bus Station,Barkas,5:05 AM,10:30 AM
+2,Musheerabad,Mahatma Gandhi Bus Station,23,18,Afzalgunj Bus Terminus,Musheerabad,10:45 AM,9:10 PM
+198,Waverock,Apurupa Colony,47,48,Apurupa Colony,Waverock,7:20 AM,4:40 PM
+195J,,,22,0,JNTU,Waverock,,
+195E,,,38,0,Rythu Bazar Erragadda,Waverock,,
+195W,,,30,0,HCU Bus Depot,Bachupally X Road,,
+195D,,,28,0,Waverock,Miyapur bus depot,,
+195,,,30,0,Bachupally X Road,Waverock,,
+127VB,VBIT (Ascendas IT Park),Koti Bus Terminal,49,46,Koti Bus Terminal,VBIT (Ascendas IT Park),6:15 AM,6:40 PM
+126M,,,23,0,Mehdipatnam,Rythu Bazar KP,,
+126/300H,,,67,0,JNTU,Hayathnagar Bus Depot,,
+126/300,,,68,0,Hayathnagar Depot,Rythu Bazar KP,,
+38S/47V,,,53,0,VBIT (Ascendas IT Park),Safilguda,,
+12,VBIT (Ascendas IT Park),Ramnagr Gundu,52,56,Ramnagar Gundu Bus Stop,VBIT (Ascendas IT Park),6:45 AM,4:25 PM
+113I/V,,,67,0,Uppal,VBIT (Ascendas IT Park),,
+35,VBIT (Ascendas IT Park),Apurupa Colony,58,55,Apurupa Colony,VBIT (Ascendas IT Park),6:10 AM,6:15 PM
+11,ESI Hospital,VBIT (Ascendas IT Park),19,22,Ascendas,S R Nagar Bus Stop,7:00 AM,3:49 PM
+21,Chilakalaguda,Venkatapuram,16,13,MES Colony Bus Stand,Secunderabad/Chilkalguda Circle Bus Stop,5:00 AM,2:45 PM
+17,Kushaiguda,Chilakalaguda,27,27,Chilakalaguda,Kushaiguda Bus Stop,4:55 AM,10:15 PM
+15,Kushaiguda,Secunderabad Railway Station,26,29,Secunderabad Railway Station Bus Stop,Kushaiguda Bus Stop,5:30 AM,8:20 PM
+14,Secunderabad Bus Station,Gandhi Chowk (Lalapet),12,13,Lalapet Bus Stop,Secunderabad Bus Station 2,5:00 AM,3:35 PM
+5,Chilakalaguda,Mehdipatnam,30,29,Mehdipatnam Bus Stop,Secunderabad/Chilkalguda Circle Bus Stop,4:10 AM,9:40 PM
+861,,,30,0,Secunderabad Railway Station Bus Stop,Central Bus Station,,
+508,Secunderabad Railway Station,Boduppal,15,15,Boduppal,Secunderabad Bus Stop,7:25 AM,7:00 PM
+290T,,,34,0,Secunderabad Bus Station,Hayath Nagar Bus Station,,
+290S,Secunderabad Bus Station,Sanghi Nagar,45,51,Sanghi Nagar,Secunderabad Bus Station 2,5:30 AM,6:45 PM
+290Q,Secunderabad Bus Station,Hayathnagar Depot,36,40,Hayathnagar Depot,Secunderabad Bus Station 2,7:40 AM,5:10 PM
+290K,Secunderabad Bus Station,Koheda,40,41,Koheda,Secunderabad Bus Station 2,5:30 AM,6:45 PM
+290J,Jubilee Bus Station,Hayath Nagar Bus Station,34,37,Hayath Nagar,Jubilee Bus Station,5:50 AM,8:30 PM
+290B,Secunderabad Bus Station,GSI Complex,20,23,GSI Complex,Secunderabad Bus Station 2,5:10 AM,6:35 PM
+290A,Anajpur,Jubilee Bus Station,50,47,Jubilee Bus Station,Anajpur,9:50 AM,4:45 PM
+284S,Prapap Singaram,Secunderabad Bus Station,31,32,Secunderabad Bus Station 2,Prapap Singaram,6:00 AM,9:25 PM
+283N,Secunderabad Bus Station,Saibad X Road,72,64,Saibad X Road,Secunderabad Bus Station 2,7:05 AM,7:25 PM
+281P,NFC Nagar,Secunderabad Bus Station,42,45,Secunderabad (Medchal),NFC Nagar,7:07 AM,6:42 PM
+280S,NFC Nagar,Secunderabad Bus Station,42,42,Gurudwara(Secunderabad Bus Station),NFC Nagar,5:30 AM,10:40 PM
+280N,NFC Nagar,Secunderabad Bus Station,42,41,Secunderabad Bus Station 2,NFC Nagar,6:25 AM,7:12 PM
+280B,Secunderabad Railway Station,Bogaram,45,44,Bogaram,Secunderabad Bus Stop,5:00 AM,8:20 PM
+280,Secunderabad Railway Station,Ghatkesar,37,36,Ghatkesar Bus Stop,Secunderabad Bus Stop,6:20 AM,8:45 PM
+272,Secunderabad Railway Station,Secunderabad Railway Station,45,45,Bowrampet,Secunderabad Bus Stop,4:42 AM,5:48 PM
+250P,Charlapally,Secunderabad Bus Station,26,25,Secunderabad (Medchal),Charlapally,5:55 AM,10:20 PM
+242G,Keesara Gutta,Chilakalaguda,46,46,Chilakalaguda,Keesara Gutta,11:00 PM,10:00 PM
+242B,Chilakalaguda,Bogaram,45,45,Bogaram,Secunderabad/Chilkalguda Circle Bus Stop,5:00 AM,9:10 PM
+242A,Chilakalaguda,Anki Reddy Palli X Road,39,39,Anki Reddy Palli X Road,Secunderabad/Chilkalguda Circle Bus Stop,5:35 AM,7:35 PM
+242,Keesara Gutta,Secunderabad Bus Station,39,41,Secunderabad (Medchal),Keesara Gutta,11:00 PM,10:00 PM
+241T,Chilakalaguda,Yadagiripalli X Road,38,36,Thimmaipalle,Secunderabad/Chilkalguda Circle Bus Stop,5:00 AM,9:50 PM
+235G,Chilakalaguda,Gowdavalli,30,30,Gowdavalli Bus Stop,Secunderabad/Chilkalguda Circle Bus Stop,5:45 AM,8:25 PM
+230D,Air Force Academy,Chilakalaguda,40,41,Chilakalaguda,Air Force Academy,5:30 AM,5:56 PM
+230A,Chilakalaguda,Air Force Academy,41,40,Air Force Academy,Secunderabad/Chilkalguda Circle Bus Stop,5:15 AM,7:50 PM
+227,Bahadurpally X Road,Chilakalaguda,36,39,Chilakalaguda,Bahadurpally X Road,5:35 AM,4:55 PM
+226M,Chilakalaguda,Keerthimahal / BHEL,46,41,Keerthimahal Bus Stop,Secunderabad/Chilkalguda Circle Bus Stop,5:35 AM,8:00 PM
+187/224,,,67,0,Miyapur Bus Depot,NGO’s Colony Bus Stop,,
+186L,,,44,0,LB Nagar Ring Road,Prashanth Nagar,,
+186,,,62,0,NGO’s Colony Bus Stop,K.P.H.B Main Road Bus Stop,,
+139,Mehdipatnam,Secunderabad Railway Station,33,34,Secunderabad Railway Station Bus Stop,Mehdipatnam,6:00 AM,4:25 PM
+107VR,L.B. Nagar Ring Road,TSRTC Rathifile Bus Station,37,37,Rathifile Bus Station,LB Nagar Ring Road Bus Stop,9:13 AM,1:38 PM
+107V/P,,,34,0,Saroor Nagar Bus Terminal,Rathifile Bus Station,,
+107V,Secunderabad Railway Station,Complex Vanasthalipuram,35,35,Complex Bus Stop,Secunderabad Bus Stop,5:00 AM,8:20 PM
+107T,Secunderabad Railway Station,Saroor Nagar,33,32,Saroor Nagar Bus Terminal,Secunderabad Bus Stop,5:55 AM,9:00 PM
+107S,Saroor Nagar,Secunderabad Railway Station,30,34,Secunderabad Railway Station Bus Stop,Saroor Nagar,7:15 AM,5:55 PM
+107P,Phanigiri Colony,Secunderabad Railway Station,26,31,Secunderabad Railway Station Bus Stop,Phanigiri Colony Bus Stop,4:45 AM,8:55 PM
+107M,Secunderabad Railway Station,Old Maruthi Nagar,30,25,Old Maruthinagar Bus Stop,Secunderabad Bus Stop,5:40 AM,5:05 PM
+107KV,,,32,0,Karmanghat,Secunderabad Railway Station,,
+107K,Secunderabad Railway Station,Karmanghat,36,31,Karmanghat,Secunderabad Bus Stop,5:45 AM,6:10 PM
+107J,Saroor Nagar,Secunderabad Bus Station,32,30,Secunderabad (Medchal),Saroor Nagar,5:53 AM,8:18 PM
+107H,Saroor Nagar,Secunderabad Railway Station,30,34,Secunderabad Railway Station Bus Stop,Saroor Nagar,11:50 PM,11:15 PM
+107G,Secunderabad Bus Station,Gayatri Nagar X Road,32,28,Gayatri Nagar X Road,Secunderabad Bus Station 2,5:45 AM,8:40 PM
+107B,BN Reddy Nagar,Hal,46,50,Hal,BN Reddy Nagar Bus Stop,7:00 AM,9:15 PM
+107,Saroor Nagar Bus Terminal,TSRTC Rathifile Bus Station,40,39,Rathifile Bus Station,Saroor Nagar Bus Terminal,6:45 AM,10:45 AM
+104S,Secunderabad Bus Station,Almasguda,42,37,Almasguda,Secunderabad Bus Station 2,6:05 AM,8:20 PM
+102K,Falaknuma Terminal,TSRTC Rathifile Bus Station,39,38,Rathifile Bus Station,Falaknuma Terminal,6:00 AM,9:00 PM
+102C,Balapur,TSRTC Rathifile Bus Station,41,40,Rathifile Bus Station,Balapur,6:12 AM,9:32 AM
+102,TSRTC Rathifile Bus Station,Lab Quarters Main,32,31,Midhani Bus Depot,Rathifile Bus Station,5:50 AM,7:59 PM
+90V,NGOS Colony,Secunderabad Railway Station,28,26,Secunderabad Railway Station Bus Stop,NGO’s Colony Bus Stop,8:30 AM,4:30 PM
+90K,Secunderabad Bus Station,Keshavagiri,33,37,Keshavagiri,Secunderabad Bus Station 2,5:45 AM,9:00 PM
+86K,,,26,0,Secunderabad Bus Station,Koti Bus Terminus,,
+86J,,,43,0,Puranapool Bus Stop,Secunderabad Bus Station 2,,
+60,,,21,0,Secunderabad Bus Station,Secunderabad Bus Station,,
+57S,Secunderabad Railway Station,Charminar,34,38,Charminar Bus Station,Secunderabad Bus Stop,7:55 AM,7:00 PM
+51,ECIL,Secunderabad Bus Station,22,22,Secunderabad (Medchal),ECIL X Roads,6:00 AM,9:18 PM
+44X,Gangaputhra Colony,Secunderabad Railway Station,9,9,Secunderabad Railway Station Bus Stop,Gangaputhra Colony,5:00 AM,6:03 PM
+44L,Gangaputhra Colony,South Lalaguda,13,14,South Lalaguda,Gangaputhra Colony,5:45 AM,7:30 PM
+43,Secunderabad Railway Station,Vemguda Colony,30,29,Vampuguda Bus Stop,Secunderabad Bus Stop,5:35 AM,9:00 PM
+38EX,East Maredpally,Secunderabad Bus Station,21,23,Secunderabad (Medchal),East Maredpally,6:00 AM,10:07 AM
+38A,Secunderabad Bus Station,RTC Colony,16,20,RTC Colony Bus Stand,Secunderabad Bus Station 2,6:00 AM,3:04 PM
+38,Afzalgunj Terminal,Tukaram Gate,35,40,Thukaram Gate,Afzalgunj Bus Terminus,7:35 AM,8:40 PM
+26,Old Bowenpally,Chilakalaguda,19,20,Chilakalaguda,Old Bowenpally Bus Depot,5:30 AM,11:20 AM
+37,ECIL,Secunderabad Railway Station,25,25,Secunderabad Railway Station Bus Stop,ECIL X Roads,5:15 AM,5:55 PM
+26N,Old Bowenpally,Chilakalaguda,16,17,Chilakalaguda,Old Bowenpally Bus Depot,4:56 AM,11:20 AM
+25J,Jeedimetla Deewan Dhaba,Secunderabad Railway Station,22,22,Chilakalaguda,Jeedimetla Village Bus Stop,7:25 AM,8:05 PM
+25B,Bank Colony,Secunderabad Railway Station,22,22,Chilakalaguda,Bank Colony,6:30 AM,8:30 PM
+23B,Chilakalaguda,Bhudevi Nagar,16,13,Bhudevi Nagar,Secunderabad/Chilkalguda Circle Bus Stop,7:08 AM,9:29 PM
+22K,Kowkur,Chilakalaguda,19,20,Chilakalaguda,water tank bus stop,5:20 AM,9:00 PM
+22D,Chilakalaguda,MB Dargah,21,21,MB Darga,Secunderabad/Chilkalguda Circle Bus Stop,4:40 AM,12:55 PM
+21W,West Venkatapuram,Chilakalaguda,14,17,Chilakalaguda,West Venkatapuram Last Bus Stop,5:30 AM,11:54 AM
+21B,Bhudevi Nagar,Chilakalaguda,14,16,Chilakalaguda,Bhudevinagar Bus Stop,5:43 AM,8:02 PM
+18V,Venkatreddy Nagar,Secunderabad Railway Station,17,18,Secunderabad Railway Station Bus Stop,Venkatreddy Nagar,6:40 AM,7:09 PM
+18R,Secunderabad Bus Station,L N Colony,18,18,L N Colony,Secunderabad Bus Station 2,6:40 AM,8:23 PM
+18C,Jubilee Bus Station,Chowdariguda,34,32,Chowdariguda,Jubilee Bus Station,6:00 AM,9:00 PM
+18B,Uppal Depot,Secunderabad Bus Station,18,17,Secunderabad (Medchal),Uppal Depot,5:46 AM,10:44 PM
+18/30,Uppal X Roads,Jagadgirigutta,46,45,Jagadgiri Gutta Bus Stop,Uppal X Road Bus Stop,6:50 AM,7:33 PM
+17HN/47LI,,,73,0,Flag Stone Towers,ECIL,,
+17HN,,,29,0,Secunderabad Bus Station 2,ECIL,,
+17H/219,Gitam University,ECIL X Road Bus Terminal,82,81,ECIL,Gitam University,6:10 AM,1:45 PM
+17H/10W,,,83,0,Waverock,ECIL,,
+16R,ECIL X Raod To Uppal B.S,Uppal,27,27,Rathi File Secunderabad,ECIL X Road,6:10 AM,8:40 PM
+16P,,,12,0,Prashanth Nagar,Secunderabad Railway Station,,
+16C,Secunderabad Railway Station,ECIL,28,26,ECIL,Secunderabad Bus Stop,4:30 AM,10:10 PM
+16A,Secunderabad(Towards Uppal),ECIL X Road Bus Terminal,35,32,ECIL X Road Bus Terminal,Secunderabad(Towards Uppal),4:30 AM,10:40 PM
+14P,,,16,0,Secunderabad Railway Station Bus Stop,Prashanth Nagar Bus Stop,,
+6S,Langer Houz,Secunderabad Railway Station,35,36,Secunderabad Railway Station Bus Stop,Langer Houz,6:35 AM,8:30 PM
+3SS,,,24,0,Sultan Bazar Bus Stop,Secunderabad Bus Station,,
+3S,Kachiguda Bus Station,Secunderabad Bus Station,21,19,Secunderabad (Medchal),Kachiguda Bus Station,6:00 AM,7:55 PM
+2U,Secunderabad Bus Station,Uppuguda,33,34,Uppuguda Bus Stop,Secunderabad Bus Station 2,11:54 PM,11:33 PM
+2D,MB Dargah,Charminar,55,55,Charminar Bus Station,MB Dargah,5:00 AM,6:33 PM
+1P,,,26,0,Afzal Gunj Bus Stop,Secunderabad Railway Station,,
+1K,Secunderabad Railway Station,Koti Bus Terminal,17,15,Koti Bus Terminus,Secunderabad Bus Stop,8:44 AM,9:14 PM
+1J,Secunderabad Railway Station,Afzalgunj Terminal,25,24,Afzalgunj Bus Terminus,Secunderabad Bus Stop,6:20 AM,4:36 PM
+1DS,Midhani Bus Depot,Secunderabad Bus Station,25,30,Secunderabad (Medchal),Midhani Bus Depot,7:35 AM,3:45 PM
+1B,Jubilee Bus Station,Charminar,30,31,Charminar,Jubilee Bus Station,8:30 AM,9:30 PM
+226E,Chilakalaguda,Patancheru Bus Terminal,58,57,Patancheru Bus Terminal,Secunderabad/Chilkalguda Circle Bus Stop,5:45 AM,11:00 PM
+147W,,,67,0,ECIL Bus Terminal,Waverock,,
+147,,,62,0,ECIL X Road,Allwyn Colony,,
+49WI,Mehdipatnam,Secunderabad (Medchal),26,26,Secunderabad Bus Station 2,Mehdipatnam,6:20 AM,5:15 PM
+49V,Erramanzil,Secunderabad Railway Station,17,16,Secunderabad Bus Stop,Erramanzil Bus Stop,7:16 AM,7:54 PM
+49P,,,24,0,Secunderabad Bus Station 2,Public Gardens,,
+49N,Nandi Nagar,Secunderabad (Medchal),16,16,Secunderabad Bus Station 2,Nandi Nagar,7:00 AM,7:50 PM
+49L,MLA Colony,Secunderabad (Medchal),20,23,Secunderabad Bus Station 2,MLA Colony Bus Stop,8:40 AM,6:40 PM
+49K,,,32,0,Secunderabad Bus Station 2,Kachiguda,,
+49J,Jubilee Hills Check Post Towards Apollo,Secunderabad (Medchal),27,29,Secunderabad Bus Station 2,Jubilee Check Post,7:45 AM,7:30 PM
+49E,Gachibowli Pushpak,Secunderabad Railway Station,44,41,Secunderabad Railway Station Bus Stop,Gachi Bowli,7:40 AM,6:16 PM
+49A,Secunderabad (Medchal),Zaheer Nagar,21,23,Zaheer Nagar,Secunderabad (Medchal),7:45 AM,8:30 PM
+49,,,22,0,Secunderabad Bus Station 2,Public Gardens,,
+48,Afzalgunj Central Library,Safilguda,44,41,Safilguda,Afzal Gunj Bus Stop,6:50 AM,7:55 PM
+47S,Shilparamam,Secunderabad (Medchal),37,34,Secunderabad Bus Station 2,Shilparamam Bus Stop,7:35 AM,6:10 PM
+47K,Kondapur Bus Depot,Secunderabad (Medchal),39,39,Secunderabad Bus Station 2,Kondapur Bus Depot,4:45 AM,5:45 PM
+47F,Film Nagar,Secunderabad (Medchal),32,30,Secunderabad Bus Station 2,Film Nagar,6:55 AM,6:45 PM
+47C,Secunderabad Bus Station,Film Nagar,31,32,Film Nagar Bus Stop,Secunderabad Bus Station 2,5:20 AM,8:03 PM
+46P,,,12,0,Parsigutta,Patigadda,,
+45J,Jeedimetla,RTC X Roads,44,40,Musheerabad Bus Stop,Jeedimetla Bus Stop,5:01 AM,7:26 PM
+45G,Jubilee Hill Road No.36 Odeesey,Ramnagar SBH,53,51,Ramnagar Bus Stop,Jubilee Hill Road No.36 Odeesey,6:35 AM,4:45 PM
+45A,AG Colony,Badi Chowdi,36,34,Koti Bus Terminus,AG Colony,5:50 AM,3:48 PM
+45,VST,ESI Hospital,32,30,SR Nagar Bus Stop,VST,6:30 AM,8:00 PM
+22S,Sanath Nagar,Risal Bazar,41,39,sadhana mandhir bus stop,Sanath Nagar,6:05 AM,7:50 PM
+17H/47LI,Flag Stone Towers,ECIL X Road Bus Terminal,75,73,ECIL,Flag Stone Towers,6:03 AM,9:03 PM
+17H/10HEC,,,82,0,ECIL,Waverock,,
+10Z,Nandamuri Basavatarakam Cancer Hospital,Secunderabad Railway Station,17,19,Secunderabad Bus Stop,Nandamuri Basavatarakam Cancer Hospital,7:25 AM,2:25 PM
+10YF,Secunderabad Bus Station,Borabanda,32,30,Borabanda Bus Stand,Secunderabad Bus Station 2,2:00 AM,4:48 PM
+10Y,Yusufguda Basthi,Secunderabad (Medchal),19,19,Secunderabad Bus Station 2,Yusufguda Basthi,6:05 AM,9:18 PM
+10W,,,55,0,Secunderabad Bus Station 2,Waverock,,
+10U,Jubilee Hill Road No.36 Odeesey,Uppal Bus Stand,39,37,Uppal,Jubilee Hill Road No.36 Odeesey,7:15 AM,7:15 AM
+10R,Secunderabad Railway Station,Rehmath Nagar,21,21,Rehmath Nagar,Secunderabad Railway Station Bus Stop,4:50 AM,7:20 PM
+10N,Nandi Nagar,Secunderabad Railway Station,20,22,Secunderabad Bus Stop,Nandi Nagar,5:45 AM,2:50 PM
+10L,Secunderabad Bus Station,KPHB 4th Phase,44,46,KPHB 4th Phase,Secunderabad Bus Station 2,2:30 AM,6:03 PM
+10KM,,,47,0,Secunderabad Bus Station 2,Malaysian Township,,
+10KB,Bachupally,Secunderabad Bus Station,47,47,Secunderabad Bus Station 2,Bachupally,6:10 AM,6:10 AM
+10K/J,,,44,0,Secunderabad Bus Station 2,Jagadgirigutta,,
+10H/W,,,55,0,Secunderabad Bus Station 2,Flag Stone Towers,,
+10H/224,,,58,0,Secunderabad Bus Station 2,Miyapur Depot,,
+10H/25S,Suchitra,Kondapur Bus Depot,71,68,Kondapur Bus Depot,Suchitra,12:06 PM,1:22 PM
+10H/219,Patancheru Bus Terminal,Secunderabad Bus Station,66,68,Secunderabad Bus Station 2,Patancheru Bus Station,6:35 AM,8:20 PM
+10H/25I,,,66,0,Old Alwal (IG Statue),Kondapur Bus Depot,,
+10H/17H,ECIL X Road Bus Terminal,Kondapur Bus Depot,71,75,Kondapur Bus Depot,ECIL,12:15 AM,9:00 PM
+10H,Secunderabad Bus Station,Kondapur Bus Depot,46,48,Kondapur Bus Depot,Secunderabad Bus Station 2,12:05 AM,7:40 AM
+10F,Borabanda,Secunderabad Bus Station,30,32,Secunderabad Bus Station 2,Borabanda Bus Stand,3:45 AM,8:40 PM
+10B,,,27,0,Secunderabad Railway Station,Bharat nagar,,
+10A/7S,Allwyn X Road (Near Miyapur),Secunderabad (Medchal),37,37,Secunderabad Bus Station 2,Allwyn Colony,5:00 AM,4:15 PM
+10,Sanath Nagar Terminal,Secunderabad Bus Station,29,29,Secunderabad Bus Station 2,Sanath Nagar Bus Depot,3:15 AM,8:10 PM
+4SY,,,48,0,Koti Bus Terminus,Yusufguda Basthi,,
